@@ -1,0 +1,34 @@
+; cPanel first:104.0.7 (update_time):1673456022 Cpanel::ZoneFile::VERSION:1.3 hostname:hl114.lucushost.org latest:104.0.7
+; Zone file for vilasdesarrollo.com
+$TTL 14400
+vilasdesarrollo.com.	86400	IN	SOA	ns1.lucushost.com.	nandocblanco.gmail.com.	(
+						2023011101 ;Serial Number
+						3600 ;refresh
+						7200 ;retry
+						1209600 ;expire
+						86400	)
+vilasdesarrollo.com.	86400	IN	NS	ns1.lucushost.com.
+vilasdesarrollo.com.	86400	IN	NS	ns2.lucushost.com.
+vilasdesarrollo.com.	86400	IN	NS	ns3.lucushost.com.
+vilasdesarrollo.com.	14400	IN	A	51.254.111.187
+mail	14400	IN	A	51.254.111.187
+vilasdesarrollo.com.	14400	IN	MX	0	mail.vilasdesarrollo.com.
+www	14400	IN	CNAME	vilasdesarrollo.com.
+ftp	14400	IN	A	51.254.111.187
+whm	14400	IN	A	51.254.111.187
+cpanel	14400	IN	A	51.254.111.187
+webdisk	14400	IN	A	51.254.111.187
+_caldav._tcp	14400	IN	SRV	0	0	2079	hl114.lucushost.org.
+_caldav._tcp	14400	IN	TXT	path=/
+_caldavs._tcp	14400	IN	SRV	0	0	2080	hl114.lucushost.org.
+_caldavs._tcp	14400	IN	TXT	path=/
+webmail	14400	IN	A	51.254.111.187
+_carddav._tcp	14400	IN	SRV	0	0	2079	hl114.lucushost.org.
+_carddav._tcp	14400	IN	TXT	path=/
+_autodiscover._tcp	14400	IN	SRV	0	0	443	cpanelemaildiscovery.cpanel.net.
+cpcalendars	14400	IN	A	51.254.111.187
+autoconfig	14400	IN	A	51.254.111.187
+cpcontacts	14400	IN	A	51.254.111.187
+autodiscover	14400	IN	A	51.254.111.187
+_carddavs._tcp	14400	IN	SRV	0	0	2080	hl114.lucushost.org.
+_carddavs._tcp	14400	IN	TXT	path=/

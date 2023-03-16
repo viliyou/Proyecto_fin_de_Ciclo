@@ -1,0 +1,3 @@
+[/home/vilas/public_html]
+htaccess_list = /home/vilas/public_html/wp-content/plugins/akismet/.htaccess,/home/vilas/public_html/wp-content/plugins/litespeed-cache/data/.htaccess
+

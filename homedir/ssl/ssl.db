@@ -1,0 +1,58 @@
+--- 
+files: 
+  certificate: 
+    vilasdesarrollo_com_9cc7d_972ab_1704992028_4ba416326c025534b1f3d41240ea25ac: 
+      created: '1673456028'
+      domains: 
+        - vilasdesarrollo.com
+        - mail.vilasdesarrollo.com
+        - www.vilasdesarrollo.com
+        - cpanel.vilasdesarrollo.com
+        - webmail.vilasdesarrollo.com
+        - webdisk.vilasdesarrollo.com
+        - cpcontacts.vilasdesarrollo.com
+        - cpcalendars.vilasdesarrollo.com
+        - autodiscover.vilasdesarrollo.com
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “vilasdesarrollo.com”
+      id: vilasdesarrollo_com_9cc7d_972ab_1704992028_4ba416326c025534b1f3d41240ea25ac
+      is_self_signed: 1
+      issuer.commonName: vilasdesarrollo.com
+      issuer.organizationName: ~
+      key_algorithm: rsaEncryption
+      modulus: 9cc7d0ef1ebdee639264fb664f527b2eb0003d2810418493ad239678c993808a973634ac4306ce5aa6827a45407b2afcd1fb163fad1522743427cc9b1115348a2e3231b62924aab0bbc9195f7d8eff3230b0177b17cae6ebe9fe11198ebe48aa81e93925cca78ff908cc7f972e6e9f511f41844d355550ee718919808d963a9fd59902676e7a53682f393a849e96d129069304cfbc841b2bb9d5fe2bc0ec908a5a32d57360271728d3534d89f38c1fd10acb2d0df11d5a69af4cd08dc03732c2dd96f783ec481816b4391572afac875bda2b21e191d706c238ece38c385d9902b0f8fc23e399c1fa1975ab0ad8d69a3322e0b42a9b0cef4eb81d089bba6972ab
+      modulus_length: 2048
+      not_after: '1704992028'
+      not_before: '1673456028'
+      serial: 0cc853a8
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: vilasdesarrollo.com
+      validation_type: ~
+  key: 
+    9cc7d_972ab_6dc641b83009dfc50228ada03190e727: 
+      created: '1673456028'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “vilasdesarrollo.com”
+      id: 9cc7d_972ab_6dc641b83009dfc50228ada03190e727
+      key_algorithm: rsaEncryption
+      modulus: 9cc7d0ef1ebdee639264fb664f527b2eb0003d2810418493ad239678c993808a973634ac4306ce5aa6827a45407b2afcd1fb163fad1522743427cc9b1115348a2e3231b62924aab0bbc9195f7d8eff3230b0177b17cae6ebe9fe11198ebe48aa81e93925cca78ff908cc7f972e6e9f511f41844d355550ee718919808d963a9fd59902676e7a53682f393a849e96d129069304cfbc841b2bb9d5fe2bc0ec908a5a32d57360271728d3534d89f38c1fd10acb2d0df11d5a69af4cd08dc03732c2dd96f783ec481816b4391572afac875bda2b21e191d706c238ece38c385d9902b0f8fc23e399c1fa1975ab0ad8d69a3322e0b42a9b0cef4eb81d089bba6972ab
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    modulus: 
+      9cc7d0ef1ebdee639264fb664f527b2eb0003d2810418493ad239678c993808a973634ac4306ce5aa6827a45407b2afcd1fb163fad1522743427cc9b1115348a2e3231b62924aab0bbc9195f7d8eff3230b0177b17cae6ebe9fe11198ebe48aa81e93925cca78ff908cc7f972e6e9f511f41844d355550ee718919808d963a9fd59902676e7a53682f393a849e96d129069304cfbc841b2bb9d5fe2bc0ec908a5a32d57360271728d3534d89f38c1fd10acb2d0df11d5a69af4cd08dc03732c2dd96f783ec481816b4391572afac875bda2b21e191d706c238ece38c385d9902b0f8fc23e399c1fa1975ab0ad8d69a3322e0b42a9b0cef4eb81d089bba6972ab: 
+        vilasdesarrollo_com_9cc7d_972ab_1704992028_4ba416326c025534b1f3d41240ea25ac: ~
+    subject.commonName: 
+      vilasdesarrollo.com: 
+        vilasdesarrollo_com_9cc7d_972ab_1704992028_4ba416326c025534b1f3d41240ea25ac: ~
+uniques: 
+  certificate: 
+    friendly_name: 
+      Cert for “vilasdesarrollo.com”: vilasdesarrollo_com_9cc7d_972ab_1704992028_4ba416326c025534b1f3d41240ea25ac
+  key: 
+    friendly_name: 
+      Key for “vilasdesarrollo.com”: 9cc7d_972ab_6dc641b83009dfc50228ada03190e727
+    modulus:ecdsa_curve_name:ecdsa_public: 
+      9cc7d0ef1ebdee639264fb664f527b2eb0003d2810418493ad239678c993808a973634ac4306ce5aa6827a45407b2afcd1fb163fad1522743427cc9b1115348a2e3231b62924aab0bbc9195f7d8eff3230b0177b17cae6ebe9fe11198ebe48aa81e93925cca78ff908cc7f972e6e9f511f41844d355550ee718919808d963a9fd59902676e7a53682f393a849e96d129069304cfbc841b2bb9d5fe2bc0ec908a5a32d57360271728d3534d89f38c1fd10acb2d0df11d5a69af4cd08dc03732c2dd96f783ec481816b4391572afac875bda2b21e191d706c238ece38c385d9902b0f8fc23e399c1fa1975ab0ad8d69a3322e0b42a9b0cef4eb81d089bba6972ab: 9cc7d_972ab_6dc641b83009dfc50228ada03190e727

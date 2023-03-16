@@ -1,0 +1,678 @@
+[31-Jan-2023 00:53:18 UTC] WordPress database error Table 'vilas_wp657.wp7i_bf_cursos' doesn't exist for query SELECT precio FROM wp7i_bf_cursos WHERE id_curso = 0 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('wp-includes/template-canvas.php'), get_the_block_template_html, do_blocks, render_block, WP_Block->render, WP_Block->render, render_block_core_post_content, apply_filters('the_content'), WP_Hook->apply_filters, Elementor\Frontend->apply_builder_in_content, Elementor\Frontend->get_builder_content, Elementor\Core\Base\Document->print_elements_with_wrapper, Elementor\Core\Base\Document->print_elements, Elementor\Element_Base->print_element, Elementor\Element_Base->print_content, Elementor\Element_Base->print_element, Elementor\Element_Base->print_content, Elementor\Element_Base->print_element, Elementor\Widget_Base->print_content, Elementor\Widget_Base->render_content, Elementor\Controls_Stack->render_by_mode, Elementor\Widget_Shortcode->render, do_shortcode, preg_replace_callback, do_shortcode_tag, get_course_price
+[31-Jan-2023 00:57:52 UTC] WordPress database error Table 'vilas_wp657.wp7i_bf_cursos' doesn't exist for query SELECT precio FROM wp7i_bf_cursos WHERE id = 0 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('wp-includes/template-canvas.php'), get_the_block_template_html, do_blocks, render_block, WP_Block->render, WP_Block->render, render_block_core_post_content, apply_filters('the_content'), WP_Hook->apply_filters, Elementor\Frontend->apply_builder_in_content, Elementor\Frontend->get_builder_content, Elementor\Core\Base\Document->print_elements_with_wrapper, Elementor\Core\Base\Document->print_elements, Elementor\Element_Base->print_element, Elementor\Element_Base->print_content, Elementor\Element_Base->print_element, Elementor\Element_Base->print_content, Elementor\Element_Base->print_element, Elementor\Widget_Base->print_content, Elementor\Widget_Base->render_content, Elementor\Controls_Stack->render_by_mode, Elementor\Widget_Shortcode->render, do_shortcode, preg_replace_callback, do_shortcode_tag, get_course_price
+[31-Jan-2023 00:58:49 UTC] WordPress database error Table 'vilas_wp657.wp7i_bf_cursos' doesn't exist for query SELECT precio FROM wp7i_bf_cursos WHERE id = 0 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('wp-includes/template-canvas.php'), get_the_block_template_html, do_blocks, render_block, WP_Block->render, WP_Block->render, render_block_core_post_content, apply_filters('the_content'), WP_Hook->apply_filters, Elementor\Frontend->apply_builder_in_content, Elementor\Frontend->get_builder_content, Elementor\Core\Base\Document->print_elements_with_wrapper, Elementor\Core\Base\Document->print_elements, Elementor\Element_Base->print_element, Elementor\Element_Base->print_content, Elementor\Element_Base->print_element, Elementor\Element_Base->print_content, Elementor\Element_Base->print_element, Elementor\Widget_Base->print_content, Elementor\Widget_Base->render_content, Elementor\Controls_Stack->render_by_mode, Elementor\Widget_Shortcode->render, do_shortcode, preg_replace_callback, do_shortcode_tag, get_course_price
+[31-Jan-2023 01:14:31 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 for query SHOW TABLES FROM  made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('wp-includes/template-canvas.php'), get_the_block_template_html, do_blocks, render_block, WP_Block->render, WP_Block->render, render_block_core_post_content, apply_filters('the_content'), WP_Hook->apply_filters, Elementor\Frontend->apply_builder_in_content, Elementor\Frontend->get_builder_content, Elementor\Core\Base\Document->print_elements_with_wrapper, Elementor\Core\Base\Document->print_elements, Elementor\Element_Base->print_element, Elementor\Element_Base->print_content, Elementor\Element_Base->print_element, Elementor\Element_Base->print_content, Elementor\Element_Base->print_element, Elementor\Widget_Base->print_content, Elementor\Widget_Base->render_content, Elementor\Controls_Stack->render_by_mode, Elementor\Widget_Shortcode->render, do_shortcode, preg_replace_callback, do_shortcode_tag, get_all_tables
+[31-Jan-2023 01:15:28 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 for query SHOW TABLES FROM  made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('wp-includes/template-canvas.php'), get_the_block_template_html, do_blocks, render_block, WP_Block->render, WP_Block->render, render_block_core_post_content, apply_filters('the_content'), WP_Hook->apply_filters, Elementor\Frontend->apply_builder_in_content, Elementor\Frontend->get_builder_content, Elementor\Core\Base\Document->print_elements_with_wrapper, Elementor\Core\Base\Document->print_elements, Elementor\Element_Base->print_element, Elementor\Element_Base->print_content, Elementor\Element_Base->print_element, Elementor\Element_Base->print_content, Elementor\Element_Base->print_element, Elementor\Widget_Base->print_content, Elementor\Widget_Base->render_content, Elementor\Controls_Stack->render_by_mode, Elementor\Widget_Shortcode->render, do_shortcode, preg_replace_callback, do_shortcode_tag, get_all_tables
+[31-Jan-2023 01:16:04 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1 for query SHOW TABLES FROM  made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('wp-includes/template-canvas.php'), get_the_block_template_html, do_blocks, render_block, WP_Block->render, WP_Block->render, render_block_core_post_content, apply_filters('the_content'), WP_Hook->apply_filters, Elementor\Frontend->apply_builder_in_content, Elementor\Frontend->get_builder_content, Elementor\Core\Base\Document->print_elements_with_wrapper, Elementor\Core\Base\Document->print_elements, Elementor\Element_Base->print_element, Elementor\Element_Base->print_content, Elementor\Element_Base->print_element, Elementor\Element_Base->print_content, Elementor\Element_Base->print_element, Elementor\Widget_Base->print_content, Elementor\Widget_Base->render_content, Elementor\Controls_Stack->render_by_mode, Elementor\Widget_Shortcode->render, do_shortcode, preg_replace_callback, do_shortcode_tag, get_all_tables
+[31-Jan-2023 17:18:37 UTC] WordPress database error Table 'vilas_wp657.wp7i__cursos' doesn't exist for query SELECT precio FROM wp7i__cursos WHERE id = 0 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('wp-includes/template-canvas.php'), get_the_block_template_html, do_blocks, render_block, WP_Block->render, WP_Block->render, render_block_core_post_content, apply_filters('the_content'), WP_Hook->apply_filters, Elementor\Frontend->apply_builder_in_content, Elementor\Frontend->get_builder_content, Elementor\Core\Base\Document->print_elements_with_wrapper, Elementor\Core\Base\Document->print_elements, Elementor\Element_Base->print_element, Elementor\Element_Base->print_content, Elementor\Element_Base->print_element, Elementor\Element_Base->print_content, Elementor\Element_Base->print_element, Elementor\Widget_Base->print_content, Elementor\Widget_Base->render_content, Elementor\Controls_Stack->render_by_mode, Elementor\Widget_Shortcode->render, do_shortcode, preg_replace_callback, do_shortcode_tag, get_course_price
+[31-Jan-2023 17:20:49 UTC] WordPress database error Table 'vilas_wp657.wp7i__cursos' doesn't exist for query SELECT precio FROM wp7i__cursos WHERE id = 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('wp-includes/template-canvas.php'), get_the_block_template_html, do_blocks, render_block, WP_Block->render, WP_Block->render, render_block_core_post_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, get_course_price
+[31-Jan-2023 17:20:53 UTC] WordPress database error Table 'vilas_wp657.wp7i__cursos' doesn't exist for query SELECT precio FROM wp7i__cursos WHERE id = 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('wp-includes/template-canvas.php'), get_the_block_template_html, do_blocks, render_block, WP_Block->render, WP_Block->render, render_block_core_post_content, apply_filters('the_content'), WP_Hook->apply_filters, Elementor\Frontend->apply_builder_in_content, Elementor\Frontend->get_builder_content, Elementor\Core\Base\Document->print_elements_with_wrapper, Elementor\Core\Base\Document->print_elements, Elementor\Element_Base->print_element, Elementor\Element_Base->print_content, Elementor\Element_Base->print_element, Elementor\Element_Base->print_content, Elementor\Element_Base->print_element, Elementor\Widget_Base->print_content, Elementor\Widget_Base->render_content, Elementor\Controls_Stack->render_by_mode, Elementor\Widget_Shortcode->render, do_shortcode, preg_replace_callback, do_shortcode_tag, get_course_price
+[31-Jan-2023 17:34:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/vilas/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(505) : eval()'d code:22
+Stack trace:
+#0 /home/vilas/public_html/wp-includes/shortcodes.php(355): conexion1('', '', 'sc_conexion1')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/vilas/public_html/wp-includes/shortcodes.php(227): preg_replace_callback('/\\[(\\[?)(sc_con...', 'do_shortcode_ta...', '[sc_conexion1]')
+#3 /home/vilas/public_html/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortcode('[sc_conexion1]')
+#4 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(2268): Elementor\Widget_Shortcode->render()
+#5 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#6 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(750): Elementor\Widget_Base->render_content()
+#7 /home/vilas/public_html/wp-content/ in /home/vilas/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(505) : eval()'d code on line 22
+[31-Jan-2023 17:35:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/vilas/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(505) : eval()'d code:22
+Stack trace:
+#0 /home/vilas/public_html/wp-includes/shortcodes.php(355): conexion1('', '', 'sc_conexion1')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/vilas/public_html/wp-includes/shortcodes.php(227): preg_replace_callback('/\\[(\\[?)(sc_con...', 'do_shortcode_ta...', '[sc_conexion1]')
+#3 /home/vilas/public_html/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortcode('[sc_conexion1]')
+#4 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(2268): Elementor\Widget_Shortcode->render()
+#5 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#6 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(750): Elementor\Widget_Base->render_content()
+#7 /home/vilas/public_html/wp-content/ in /home/vilas/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(505) : eval()'d code on line 22
+[31-Jan-2023 17:37:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/vilas/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(505) : eval()'d code:22
+Stack trace:
+#0 /home/vilas/public_html/wp-includes/shortcodes.php(355): conexion1('', '', 'sc_conexion1')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/vilas/public_html/wp-includes/shortcodes.php(227): preg_replace_callback('/\\[(\\[?)(sc_con...', 'do_shortcode_ta...', '[sc_conexion1]')
+#3 /home/vilas/public_html/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortcode('[sc_conexion1]')
+#4 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(2268): Elementor\Widget_Shortcode->render()
+#5 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#6 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(750): Elementor\Widget_Base->render_content()
+#7 /home/vilas/public_html/wp-content/ in /home/vilas/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(505) : eval()'d code on line 22
+[31-Jan-2023 17:37:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/vilas/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(505) : eval()'d code:22
+Stack trace:
+#0 /home/vilas/public_html/wp-includes/shortcodes.php(355): conexion1('', '', 'sc_conexion1')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/vilas/public_html/wp-includes/shortcodes.php(227): preg_replace_callback('/\\[(\\[?)(sc_con...', 'do_shortcode_ta...', '[sc_conexion1]')
+#3 /home/vilas/public_html/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortcode('[sc_conexion1]')
+#4 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(2268): Elementor\Widget_Shortcode->render()
+#5 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#6 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(750): Elementor\Widget_Base->render_content()
+#7 /home/vilas/public_html/wp-content/ in /home/vilas/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(505) : eval()'d code on line 22
+[31-Jan-2023 17:37:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/vilas/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(505) : eval()'d code:22
+Stack trace:
+#0 /home/vilas/public_html/wp-includes/shortcodes.php(355): conexion1('', '', 'sc_conexion1')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/vilas/public_html/wp-includes/shortcodes.php(227): preg_replace_callback('/\\[(\\[?)(sc_con...', 'do_shortcode_ta...', '[sc_conexion1]')
+#3 /home/vilas/public_html/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortcode('[sc_conexion1]')
+#4 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(2268): Elementor\Widget_Shortcode->render()
+#5 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#6 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(750): Elementor\Widget_Base->render_content()
+#7 /home/vilas/public_html/wp-content/ in /home/vilas/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(505) : eval()'d code on line 22
+[01-Feb-2023 15:28:09 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/vilas/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(505) : eval()'d code on line 8
+[01-Feb-2023 15:28:09 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/vilas/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(505) : eval()'d code on line 8
+[01-Feb-2023 15:28:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/vilas/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(505) : eval()'d code:15
+Stack trace:
+#0 /home/vilas/public_html/wp-includes/shortcodes.php(355): conexion2('', '', 'sc_conexion2')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/vilas/public_html/wp-includes/shortcodes.php(227): preg_replace_callback('/\\[(\\[?)(sc_con...', 'do_shortcode_ta...', '[sc_conexion2]')
+#3 /home/vilas/public_html/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortcode('[sc_conexion2]')
+#4 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(2268): Elementor\Widget_Shortcode->render()
+#5 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#6 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(750): Elementor\Widget_Base->render_content()
+#7 /home/vilas/public_html/wp-content in /home/vilas/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(505) : eval()'d code on line 15
+[01-Feb-2023 15:28:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/vilas/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(505) : eval()'d code:15
+Stack trace:
+#0 /home/vilas/public_html/wp-includes/shortcodes.php(355): conexion2('', '', 'sc_conexion2')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/vilas/public_html/wp-includes/shortcodes.php(227): preg_replace_callback('/\\[(\\[?)(sc_con...', 'do_shortcode_ta...', '[sc_conexion2]')
+#3 /home/vilas/public_html/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortcode('[sc_conexion2]')
+#4 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(2268): Elementor\Widget_Shortcode->render()
+#5 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#6 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(750): Elementor\Widget_Base->render_content()
+#7 /home/vilas/public_html/wp-content in /home/vilas/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(505) : eval()'d code on line 15
+[01-Feb-2023 15:33:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/vilas/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(505) : eval()'d code:16
+Stack trace:
+#0 /home/vilas/public_html/wp-includes/shortcodes.php(355): conexion2('', '', 'sc_conexion2')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/vilas/public_html/wp-includes/shortcodes.php(227): preg_replace_callback('/\\[(\\[?)(sc_con...', 'do_shortcode_ta...', '[sc_conexion2]')
+#3 /home/vilas/public_html/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortcode('[sc_conexion2]')
+#4 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(2268): Elementor\Widget_Shortcode->render()
+#5 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#6 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(750): Elementor\Widget_Base->render_content()
+#7 /home/vilas/public_html/wp-c in /home/vilas/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(505) : eval()'d code on line 16
+[01-Feb-2023 15:33:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/vilas/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(505) : eval()'d code:16
+Stack trace:
+#0 /home/vilas/public_html/wp-includes/shortcodes.php(355): conexion2('', '', 'sc_conexion2')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/vilas/public_html/wp-includes/shortcodes.php(227): preg_replace_callback('/\\[(\\[?)(sc_con...', 'do_shortcode_ta...', '[sc_conexion2]')
+#3 /home/vilas/public_html/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortcode('[sc_conexion2]')
+#4 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(2268): Elementor\Widget_Shortcode->render()
+#5 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#6 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(750): Elementor\Widget_Base->render_content()
+#7 /home/vilas/public_html/wp-c in /home/vilas/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(505) : eval()'d code on line 16
+[01-Feb-2023 17:48:48 UTC] PHP Fatal error:  Uncaught Error: Object of class wpdb could not be converted to string in /home/vilas/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(505) : eval()'d code:17
+Stack trace:
+#0 /home/vilas/public_html/wp-includes/shortcodes.php(355): conexion3('', '', 'sc_conexion3')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/vilas/public_html/wp-includes/shortcodes.php(227): preg_replace_callback('/\\[(\\[?)(sc_con...', 'do_shortcode_ta...', '\n<p>P\xC3\xA1gina de ...')
+#3 /home/vilas/public_html/wp-includes/class-wp-hook.php(308): do_shortcode('\n<p>P\xC3\xA1gina de ...')
+#4 /home/vilas/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters('\n<p>P\xC3\xA1gina de ...', Array)
+#5 /home/vilas/public_html/wp-includes/blocks/post-content.php(55): apply_filters('the_content', '<!-- wp:paragra...')
+#6 /home/vilas/public_html/wp-includes/class-wp-block.php(256): render_block_core_post_content(Array, '<!-- wp:paragra...', Object(WP_Block))
+#7 /home/vilas/public_html/wp-includes/class-wp-block.php in /home/vilas/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(505) : eval()'d code on line 17
+[01-Feb-2023 17:48:48 UTC] PHP Fatal error:  Uncaught Error: Object of class wpdb could not be converted to string in /home/vilas/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(505) : eval()'d code:17
+Stack trace:
+#0 /home/vilas/public_html/wp-includes/shortcodes.php(355): conexion3('', '', 'sc_conexion3')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/vilas/public_html/wp-includes/shortcodes.php(227): preg_replace_callback('/\\[(\\[?)(sc_con...', 'do_shortcode_ta...', '\n<p>P\xC3\xA1gina de ...')
+#3 /home/vilas/public_html/wp-includes/class-wp-hook.php(308): do_shortcode('\n<p>P\xC3\xA1gina de ...')
+#4 /home/vilas/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters('\n<p>P\xC3\xA1gina de ...', Array)
+#5 /home/vilas/public_html/wp-includes/blocks/post-content.php(55): apply_filters('the_content', '<!-- wp:paragra...')
+#6 /home/vilas/public_html/wp-includes/class-wp-block.php(256): render_block_core_post_content(Array, '<!-- wp:paragra...', Object(WP_Block))
+#7 /home/vilas/public_html/wp-includes/class-wp-block.php in /home/vilas/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(505) : eval()'d code on line 17
+[01-Feb-2023 17:48:56 UTC] PHP Fatal error:  Uncaught Error: Object of class wpdb could not be converted to string in /home/vilas/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(505) : eval()'d code:17
+Stack trace:
+#0 /home/vilas/public_html/wp-includes/shortcodes.php(355): conexion3('', '', 'sc_conexion3')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/vilas/public_html/wp-includes/shortcodes.php(227): preg_replace_callback('/\\[(\\[?)(sc_con...', 'do_shortcode_ta...', '\n<p>P\xC3\xA1gina de ...')
+#3 /home/vilas/public_html/wp-includes/class-wp-hook.php(308): do_shortcode('\n<p>P\xC3\xA1gina de ...')
+#4 /home/vilas/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters('\n<p>P\xC3\xA1gina de ...', Array)
+#5 /home/vilas/public_html/wp-includes/blocks/post-content.php(55): apply_filters('the_content', '<!-- wp:paragra...')
+#6 /home/vilas/public_html/wp-includes/class-wp-block.php(256): render_block_core_post_content(Array, '<!-- wp:paragra...', Object(WP_Block))
+#7 /home/vilas/public_html/wp-includes/class-wp-block.php in /home/vilas/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(505) : eval()'d code on line 17
+[01-Feb-2023 17:52:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on int in /home/vilas/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(505) : eval()'d code:21
+Stack trace:
+#0 /home/vilas/public_html/wp-includes/shortcodes.php(355): conexion3('', '', 'sc_conexion3')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 /home/vilas/public_html/wp-includes/shortcodes.php(227): preg_replace_callback('/\\[(\\[?)(sc_con...', 'do_shortcode_ta...', '\n<p>P\xC3\xA1gina de ...')
+#3 /home/vilas/public_html/wp-includes/class-wp-hook.php(308): do_shortcode('\n<p>P\xC3\xA1gina de ...')
+#4 /home/vilas/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters('\n<p>P\xC3\xA1gina de ...', Array)
+#5 /home/vilas/public_html/wp-includes/blocks/post-content.php(55): apply_filters('the_content', '<!-- wp:paragra...')
+#6 /home/vilas/public_html/wp-includes/class-wp-block.php(256): render_block_core_post_content(Array, '<!-- wp:paragra...', Object(WP_Block))
+#7 /home/vilas/public_html/wp-includes/class-wp-block.php(242):  in /home/vilas/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(505) : eval()'d code on line 21
+[01-Feb-2023 17:54:23 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/vilas/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(505) : eval()'d code on line 8
+[01-Feb-2023 17:54:23 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/vilas/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(505) : eval()'d code on line 8
+[01-Feb-2023 17:55:20 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/vilas/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(505) : eval()'d code on line 8
+[01-Feb-2023 17:55:20 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/vilas/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(505) : eval()'d code on line 8
+[01-Feb-2023 17:55:21 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/vilas/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(505) : eval()'d code on line 8
+[01-Feb-2023 17:55:21 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/vilas/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(505) : eval()'d code on line 8
+[01-Feb-2023 17:55:22 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/vilas/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(505) : eval()'d code on line 8
+[01-Feb-2023 17:55:22 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/vilas/public_html/wp-content/plugins/code-snippets/php/snippet-ops.php(505) : eval()'d code on line 8
+[12-Mar-2023 13:21:23 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code on line 2
+[12-Mar-2023 13:21:32 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code on line 2
+[12-Mar-2023 15:22:57 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code on line 2
+[12-Mar-2023 15:23:10 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code on line 2
+[12-Mar-2023 15:23:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_db_connection_or_die() in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code:3
+Stack trace:
+#0 /home/vilas/public_html/wp-includes/shortcodes.php(355): conexion5()
+#1 [internal function]: do_shortcode_tag()
+#2 /home/vilas/public_html/wp-includes/shortcodes.php(227): preg_replace_callback()
+#3 /home/vilas/public_html/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortcode()
+#4 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(2268): Elementor\Widget_Shortcode->render()
+#5 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#6 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(750): Elementor\Widget_Base->render_content()
+#7 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(449): Elementor\Widget_Base->print_content()
+#8 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(1354): Elementor\Element_Base->print_element()
+#9 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(449): Elementor\Element_Base->print_content()
+#10 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(1354): Elementor\Element_Base->print_element()
+#11 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(449): Elementor\Element_Base->print_content()
+#12 /home/vilas/public_html/wp-content/plugins/elementor/core/base/document.php(1669): Elementor\Element_Base->print_element()
+#13 /home/vilas/public_html/wp-content/plugins/elementor/core/base/document.php(1095): Elementor\Core\Base\Document->print_elements()
+#14 /home/vilas/public_html/wp-content/plugins/elementor/includes/frontend.php(1179): Elementor\Core\Base\Document->print_elements_with_wrapper()
+#15 /home/vilas/public_html/wp-content/plugins/elementor/includes/frontend.php(1074): Elementor\Frontend->get_builder_content()
+#16 /home/vilas/public_html/wp-includes/class-wp-hook.php(308): Elementor\Frontend->apply_builder_in_content()
+#17 /home/vilas/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#18 /home/vilas/public_html/wp-includes/post-template.php(255): apply_filters()
+#19 /home/vilas/public_html/wp-content/themes/hello-elementor/template-parts/single.php(23): the_content()
+#20 /home/vilas/public_html/wp-includes/template.php(785): require('/home/vilas/pub...')
+#21 /home/vilas/public_html/wp-includes/template.php(718): load_template()
+#22 /home/vilas/public_html/wp-includes/general-template.php(204): locate_template()
+#23 /home/vilas/public_html/wp-content/themes/hello-elementor/index.php(21): get_template_part()
+#24 /home/vilas/public_html/wp-includes/template-loader.php(106): include('/home/vilas/pub...')
+#25 /home/vilas/public_html/wp-blog-header.php(19): require_once('/home/vilas/pub...')
+#26 /home/vilas/public_html/index.php(17): require('/home/vilas/pub...')
+#27 {main}
+  thrown in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code on line 3
+[12-Mar-2023 15:28:36 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code on line 4
+[12-Mar-2023 15:28:36 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code on line 2
+[12-Mar-2023 15:44:35 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code on line 3
+[12-Mar-2023 15:44:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_db_connection_or_die() in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code:4
+Stack trace:
+#0 /home/vilas/public_html/wp-includes/shortcodes.php(355): conexion4()
+#1 [internal function]: do_shortcode_tag()
+#2 /home/vilas/public_html/wp-includes/shortcodes.php(227): preg_replace_callback()
+#3 /home/vilas/public_html/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortcode()
+#4 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(2268): Elementor\Widget_Shortcode->render()
+#5 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#6 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(750): Elementor\Widget_Base->render_content()
+#7 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(449): Elementor\Widget_Base->print_content()
+#8 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(1354): Elementor\Element_Base->print_element()
+#9 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(449): Elementor\Element_Base->print_content()
+#10 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(1354): Elementor\Element_Base->print_element()
+#11 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(449): Elementor\Element_Base->print_content()
+#12 /home/vilas/public_html/wp-content/plugins/elementor/core/base/document.php(1669): Elementor\Element_Base->print_element()
+#13 /home/vilas/public_html/wp-content/plugins/elementor/core/base/document.php(1095): Elementor\Core\Base\Document->print_elements()
+#14 /home/vilas/public_html/wp-content/plugins/elementor/includes/frontend.php(1179): Elementor\Core\Base\Document->print_elements_with_wrapper()
+#15 /home/vilas/public_html/wp-content/plugins/elementor/includes/frontend.php(1074): Elementor\Frontend->get_builder_content()
+#16 /home/vilas/public_html/wp-includes/class-wp-hook.php(308): Elementor\Frontend->apply_builder_in_content()
+#17 /home/vilas/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#18 /home/vilas/public_html/wp-includes/post-template.php(255): apply_filters()
+#19 /home/vilas/public_html/wp-content/themes/hello-elementor/template-parts/single.php(23): the_content()
+#20 /home/vilas/public_html/wp-includes/template.php(785): require('/home/vilas/pub...')
+#21 /home/vilas/public_html/wp-includes/template.php(718): load_template()
+#22 /home/vilas/public_html/wp-includes/general-template.php(204): locate_template()
+#23 /home/vilas/public_html/wp-content/themes/hello-elementor/index.php(21): get_template_part()
+#24 /home/vilas/public_html/wp-includes/template-loader.php(106): include('/home/vilas/pub...')
+#25 /home/vilas/public_html/wp-blog-header.php(19): require_once('/home/vilas/pub...')
+#26 /home/vilas/public_html/index.php(17): require('/home/vilas/pub...')
+#27 {main}
+  thrown in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code on line 4
+[12-Mar-2023 15:46:30 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code on line 2
+[12-Mar-2023 15:46:30 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code on line 2
+[12-Mar-2023 15:47:15 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code on line 2
+[12-Mar-2023 15:47:21 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code on line 2
+[12-Mar-2023 15:47:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_db_connection_or_die() in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code:3
+Stack trace:
+#0 /home/vilas/public_html/wp-includes/shortcodes.php(355): conexion4()
+#1 [internal function]: do_shortcode_tag()
+#2 /home/vilas/public_html/wp-includes/shortcodes.php(227): preg_replace_callback()
+#3 /home/vilas/public_html/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortcode()
+#4 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(2268): Elementor\Widget_Shortcode->render()
+#5 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#6 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(750): Elementor\Widget_Base->render_content()
+#7 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(449): Elementor\Widget_Base->print_content()
+#8 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(1354): Elementor\Element_Base->print_element()
+#9 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(449): Elementor\Element_Base->print_content()
+#10 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(1354): Elementor\Element_Base->print_element()
+#11 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(449): Elementor\Element_Base->print_content()
+#12 /home/vilas/public_html/wp-content/plugins/elementor/core/base/document.php(1669): Elementor\Element_Base->print_element()
+#13 /home/vilas/public_html/wp-content/plugins/elementor/core/base/document.php(1095): Elementor\Core\Base\Document->print_elements()
+#14 /home/vilas/public_html/wp-content/plugins/elementor/includes/frontend.php(1179): Elementor\Core\Base\Document->print_elements_with_wrapper()
+#15 /home/vilas/public_html/wp-content/plugins/elementor/includes/frontend.php(1074): Elementor\Frontend->get_builder_content()
+#16 /home/vilas/public_html/wp-includes/class-wp-hook.php(308): Elementor\Frontend->apply_builder_in_content()
+#17 /home/vilas/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#18 /home/vilas/public_html/wp-includes/post-template.php(255): apply_filters()
+#19 /home/vilas/public_html/wp-content/themes/hello-elementor/template-parts/single.php(23): the_content()
+#20 /home/vilas/public_html/wp-includes/template.php(785): require('/home/vilas/pub...')
+#21 /home/vilas/public_html/wp-includes/template.php(718): load_template()
+#22 /home/vilas/public_html/wp-includes/general-template.php(204): locate_template()
+#23 /home/vilas/public_html/wp-content/themes/hello-elementor/index.php(21): get_template_part()
+#24 /home/vilas/public_html/wp-includes/template-loader.php(106): include('/home/vilas/pub...')
+#25 /home/vilas/public_html/wp-blog-header.php(19): require_once('/home/vilas/pub...')
+#26 /home/vilas/public_html/index.php(17): require('/home/vilas/pub...')
+#27 {main}
+  thrown in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code on line 3
+[13-Mar-2023 10:38:32 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code on line 2
+[13-Mar-2023 10:38:32 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code on line 2
+[13-Mar-2023 10:39:26 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code on line 2
+[13-Mar-2023 10:39:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_db_connection_or_die() in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code:3
+Stack trace:
+#0 /home/vilas/public_html/wp-includes/shortcodes.php(355): conexion4()
+#1 [internal function]: do_shortcode_tag()
+#2 /home/vilas/public_html/wp-includes/shortcodes.php(227): preg_replace_callback()
+#3 /home/vilas/public_html/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortcode()
+#4 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(2268): Elementor\Widget_Shortcode->render()
+#5 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#6 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(750): Elementor\Widget_Base->render_content()
+#7 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(449): Elementor\Widget_Base->print_content()
+#8 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(1354): Elementor\Element_Base->print_element()
+#9 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(449): Elementor\Element_Base->print_content()
+#10 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(1354): Elementor\Element_Base->print_element()
+#11 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(449): Elementor\Element_Base->print_content()
+#12 /home/vilas/public_html/wp-content/plugins/elementor/core/base/document.php(1669): Elementor\Element_Base->print_element()
+#13 /home/vilas/public_html/wp-content/plugins/elementor/core/base/document.php(1095): Elementor\Core\Base\Document->print_elements()
+#14 /home/vilas/public_html/wp-content/plugins/elementor/includes/frontend.php(1179): Elementor\Core\Base\Document->print_elements_with_wrapper()
+#15 /home/vilas/public_html/wp-content/plugins/elementor/includes/frontend.php(1074): Elementor\Frontend->get_builder_content()
+#16 /home/vilas/public_html/wp-includes/class-wp-hook.php(308): Elementor\Frontend->apply_builder_in_content()
+#17 /home/vilas/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#18 /home/vilas/public_html/wp-includes/post-template.php(255): apply_filters()
+#19 /home/vilas/public_html/wp-content/themes/hello-elementor/template-parts/single.php(23): the_content()
+#20 /home/vilas/public_html/wp-includes/template.php(785): require('/home/vilas/pub...')
+#21 /home/vilas/public_html/wp-includes/template.php(718): load_template()
+#22 /home/vilas/public_html/wp-includes/general-template.php(204): locate_template()
+#23 /home/vilas/public_html/wp-content/themes/hello-elementor/index.php(21): get_template_part()
+#24 /home/vilas/public_html/wp-includes/template-loader.php(106): include('/home/vilas/pub...')
+#25 /home/vilas/public_html/wp-blog-header.php(19): require_once('/home/vilas/pub...')
+#26 /home/vilas/public_html/index.php(17): require('/home/vilas/pub...')
+#27 {main}
+  thrown in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code on line 3
+[13-Mar-2023 10:47:01 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code on line 2
+[13-Mar-2023 10:47:01 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code on line 2
+[13-Mar-2023 10:47:04 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code on line 2
+[13-Mar-2023 10:47:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_db_connection_or_die() in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code:3
+Stack trace:
+#0 /home/vilas/public_html/wp-includes/shortcodes.php(355): conexion4()
+#1 [internal function]: do_shortcode_tag()
+#2 /home/vilas/public_html/wp-includes/shortcodes.php(227): preg_replace_callback()
+#3 /home/vilas/public_html/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortcode()
+#4 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(2268): Elementor\Widget_Shortcode->render()
+#5 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#6 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(750): Elementor\Widget_Base->render_content()
+#7 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(449): Elementor\Widget_Base->print_content()
+#8 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(1354): Elementor\Element_Base->print_element()
+#9 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(449): Elementor\Element_Base->print_content()
+#10 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(1354): Elementor\Element_Base->print_element()
+#11 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(449): Elementor\Element_Base->print_content()
+#12 /home/vilas/public_html/wp-content/plugins/elementor/core/base/document.php(1669): Elementor\Element_Base->print_element()
+#13 /home/vilas/public_html/wp-content/plugins/elementor/core/base/document.php(1095): Elementor\Core\Base\Document->print_elements()
+#14 /home/vilas/public_html/wp-content/plugins/elementor/includes/frontend.php(1179): Elementor\Core\Base\Document->print_elements_with_wrapper()
+#15 /home/vilas/public_html/wp-content/plugins/elementor/includes/frontend.php(1074): Elementor\Frontend->get_builder_content()
+#16 /home/vilas/public_html/wp-includes/class-wp-hook.php(308): Elementor\Frontend->apply_builder_in_content()
+#17 /home/vilas/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#18 /home/vilas/public_html/wp-includes/post-template.php(255): apply_filters()
+#19 /home/vilas/public_html/wp-content/themes/hello-elementor/template-parts/single.php(23): the_content()
+#20 /home/vilas/public_html/wp-includes/template.php(785): require('/home/vilas/pub...')
+#21 /home/vilas/public_html/wp-includes/template.php(718): load_template()
+#22 /home/vilas/public_html/wp-includes/general-template.php(204): locate_template()
+#23 /home/vilas/public_html/wp-content/themes/hello-elementor/index.php(21): get_template_part()
+#24 /home/vilas/public_html/wp-includes/template-loader.php(106): include('/home/vilas/pub...')
+#25 /home/vilas/public_html/wp-blog-header.php(19): require_once('/home/vilas/pub...')
+#26 /home/vilas/public_html/index.php(17): require('/home/vilas/pub...')
+#27 {main}
+  thrown in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code on line 3
+[13-Mar-2023 10:47:09 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code on line 2
+[13-Mar-2023 10:47:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_db_connection_or_die() in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code:3
+Stack trace:
+#0 /home/vilas/public_html/wp-includes/shortcodes.php(355): conexion4()
+#1 [internal function]: do_shortcode_tag()
+#2 /home/vilas/public_html/wp-includes/shortcodes.php(227): preg_replace_callback()
+#3 /home/vilas/public_html/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortcode()
+#4 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(2268): Elementor\Widget_Shortcode->render()
+#5 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#6 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(750): Elementor\Widget_Base->render_content()
+#7 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(449): Elementor\Widget_Base->print_content()
+#8 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(1354): Elementor\Element_Base->print_element()
+#9 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(449): Elementor\Element_Base->print_content()
+#10 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(1354): Elementor\Element_Base->print_element()
+#11 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(449): Elementor\Element_Base->print_content()
+#12 /home/vilas/public_html/wp-content/plugins/elementor/core/base/document.php(1669): Elementor\Element_Base->print_element()
+#13 /home/vilas/public_html/wp-content/plugins/elementor/core/base/document.php(1095): Elementor\Core\Base\Document->print_elements()
+#14 /home/vilas/public_html/wp-content/plugins/elementor/includes/frontend.php(1179): Elementor\Core\Base\Document->print_elements_with_wrapper()
+#15 /home/vilas/public_html/wp-content/plugins/elementor/includes/frontend.php(1074): Elementor\Frontend->get_builder_content()
+#16 /home/vilas/public_html/wp-includes/class-wp-hook.php(308): Elementor\Frontend->apply_builder_in_content()
+#17 /home/vilas/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#18 /home/vilas/public_html/wp-includes/post-template.php(255): apply_filters()
+#19 /home/vilas/public_html/wp-content/themes/hello-elementor/template-parts/single.php(23): the_content()
+#20 /home/vilas/public_html/wp-includes/template.php(785): require('/home/vilas/pub...')
+#21 /home/vilas/public_html/wp-includes/template.php(718): load_template()
+#22 /home/vilas/public_html/wp-includes/general-template.php(204): locate_template()
+#23 /home/vilas/public_html/wp-content/themes/hello-elementor/index.php(21): get_template_part()
+#24 /home/vilas/public_html/wp-includes/template-loader.php(106): include('/home/vilas/pub...')
+#25 /home/vilas/public_html/wp-blog-header.php(19): require_once('/home/vilas/pub...')
+#26 /home/vilas/public_html/index.php(17): require('/home/vilas/pub...')
+#27 {main}
+  thrown in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code on line 3
+[13-Mar-2023 10:47:48 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code on line 2
+[13-Mar-2023 10:47:48 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code on line 2
+[13-Mar-2023 11:57:52 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code on line 2
+[13-Mar-2023 12:01:34 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code on line 2
+[13-Mar-2023 12:22:59 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code on line 2
+[13-Mar-2023 12:23:04 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code on line 2
+[13-Mar-2023 12:23:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_db_connection_or_die() in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code:3
+Stack trace:
+#0 /home/vilas/public_html/wp-includes/shortcodes.php(355): conexion4()
+#1 [internal function]: do_shortcode_tag()
+#2 /home/vilas/public_html/wp-includes/shortcodes.php(227): preg_replace_callback()
+#3 /home/vilas/public_html/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortcode()
+#4 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(2268): Elementor\Widget_Shortcode->render()
+#5 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#6 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(750): Elementor\Widget_Base->render_content()
+#7 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(449): Elementor\Widget_Base->print_content()
+#8 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(1354): Elementor\Element_Base->print_element()
+#9 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(449): Elementor\Element_Base->print_content()
+#10 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(1354): Elementor\Element_Base->print_element()
+#11 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(449): Elementor\Element_Base->print_content()
+#12 /home/vilas/public_html/wp-content/plugins/elementor/core/base/document.php(1669): Elementor\Element_Base->print_element()
+#13 /home/vilas/public_html/wp-content/plugins/elementor/core/base/document.php(1095): Elementor\Core\Base\Document->print_elements()
+#14 /home/vilas/public_html/wp-content/plugins/elementor/includes/frontend.php(1179): Elementor\Core\Base\Document->print_elements_with_wrapper()
+#15 /home/vilas/public_html/wp-content/plugins/elementor/includes/frontend.php(1074): Elementor\Frontend->get_builder_content()
+#16 /home/vilas/public_html/wp-includes/class-wp-hook.php(308): Elementor\Frontend->apply_builder_in_content()
+#17 /home/vilas/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#18 /home/vilas/public_html/wp-includes/post-template.php(255): apply_filters()
+#19 /home/vilas/public_html/wp-content/themes/hello-elementor/template-parts/single.php(23): the_content()
+#20 /home/vilas/public_html/wp-includes/template.php(785): require('/home/vilas/pub...')
+#21 /home/vilas/public_html/wp-includes/template.php(718): load_template()
+#22 /home/vilas/public_html/wp-includes/general-template.php(204): locate_template()
+#23 /home/vilas/public_html/wp-content/themes/hello-elementor/index.php(21): get_template_part()
+#24 /home/vilas/public_html/wp-includes/template-loader.php(106): include('/home/vilas/pub...')
+#25 /home/vilas/public_html/wp-blog-header.php(19): require_once('/home/vilas/pub...')
+#26 /home/vilas/public_html/index.php(17): require('/home/vilas/pub...')
+#27 {main}
+  thrown in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code on line 3
+[13-Mar-2023 12:28:04 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code on line 2
+[13-Mar-2023 12:28:04 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code:9
+Stack trace:
+#0 /home/vilas/public_html/wp-includes/shortcodes.php(355): conexion4()
+#1 [internal function]: do_shortcode_tag()
+#2 /home/vilas/public_html/wp-includes/shortcodes.php(227): preg_replace_callback()
+#3 /home/vilas/public_html/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortcode()
+#4 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(2268): Elementor\Widget_Shortcode->render()
+#5 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#6 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(750): Elementor\Widget_Base->render_content()
+#7 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(449): Elementor\Widget_Base->print_content()
+#8 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(1354): Elementor\Element_Base->print_element()
+#9 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(449): Elementor\Element_Base->print_content()
+#10 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(1354): Elementor\Element_Base->print_element()
+#11 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(449): Elementor\Element_Base->print_content()
+#12 /home/vilas/public_html/wp-content/plugins/elementor/core/base/document.php(1669): Elementor\Element_Base->print_element()
+#13 /home/vilas/public_html/wp-content/plugins/elementor/core/base/document.php(1095): Elementor\Core\Base\Document->print_elements()
+#14 /home/vilas/public_html/wp-content/plugins/elementor/includes/frontend.php(1179): Elementor\Core\Base\Document->print_elements_with_wrapper()
+#15 /home/vilas/public_html/wp-content/plugins/elementor/includes/frontend.php(1074): Elementor\Frontend->get_builder_content()
+#16 /home/vilas/public_html/wp-includes/class-wp-hook.php(308): Elementor\Frontend->apply_builder_in_content()
+#17 /home/vilas/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#18 /home/vilas/public_html/wp-includes/post-template.php(255): apply_filters()
+#19 /home/vilas/public_html/wp-content/themes/hello-elementor/template-parts/single.php(23): the_content()
+#20 /home/vilas/public_html/wp-includes/template.php(785): require('/home/vilas/pub...')
+#21 /home/vilas/public_html/wp-includes/template.php(718): load_template()
+#22 /home/vilas/public_html/wp-includes/general-template.php(204): locate_template()
+#23 /home/vilas/public_html/wp-content/themes/hello-elementor/index.php(21): get_template_part()
+#24 /home/vilas/public_html/wp-includes/template-loader.php(106): include('/home/vilas/pub...')
+#25 /home/vilas/public_html/wp-blog-header.php(19): require_once('/home/vilas/pub...')
+#26 /home/vilas/public_html/index.php(17): require('/home/vilas/pub...')
+#27 {main}
+  thrown in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code on line 9
+[13-Mar-2023 12:29:27 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code on line 2
+[13-Mar-2023 12:29:27 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli could not be converted to string in /home/vilas/public_html/wp-includes/shortcodes.php:355
+Stack trace:
+#0 [internal function]: do_shortcode_tag()
+#1 /home/vilas/public_html/wp-includes/shortcodes.php(227): preg_replace_callback()
+#2 /home/vilas/public_html/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortcode()
+#3 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(2268): Elementor\Widget_Shortcode->render()
+#4 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#5 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(750): Elementor\Widget_Base->render_content()
+#6 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(449): Elementor\Widget_Base->print_content()
+#7 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(1354): Elementor\Element_Base->print_element()
+#8 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(449): Elementor\Element_Base->print_content()
+#9 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(1354): Elementor\Element_Base->print_element()
+#10 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(449): Elementor\Element_Base->print_content()
+#11 /home/vilas/public_html/wp-content/plugins/elementor/core/base/document.php(1669): Elementor\Element_Base->print_element()
+#12 /home/vilas/public_html/wp-content/plugins/elementor/core/base/document.php(1095): Elementor\Core\Base\Document->print_elements()
+#13 /home/vilas/public_html/wp-content/plugins/elementor/includes/frontend.php(1179): Elementor\Core\Base\Document->print_elements_with_wrapper()
+#14 /home/vilas/public_html/wp-content/plugins/elementor/includes/frontend.php(1074): Elementor\Frontend->get_builder_content()
+#15 /home/vilas/public_html/wp-includes/class-wp-hook.php(308): Elementor\Frontend->apply_builder_in_content()
+#16 /home/vilas/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#17 /home/vilas/public_html/wp-includes/post-template.php(255): apply_filters()
+#18 /home/vilas/public_html/wp-content/themes/hello-elementor/template-parts/single.php(23): the_content()
+#19 /home/vilas/public_html/wp-includes/template.php(785): require('/home/vilas/pub...')
+#20 /home/vilas/public_html/wp-includes/template.php(718): load_template()
+#21 /home/vilas/public_html/wp-includes/general-template.php(204): locate_template()
+#22 /home/vilas/public_html/wp-content/themes/hello-elementor/index.php(21): get_template_part()
+#23 /home/vilas/public_html/wp-includes/template-loader.php(106): include('/home/vilas/pub...')
+#24 /home/vilas/public_html/wp-blog-header.php(19): require_once('/home/vilas/pub...')
+#25 /home/vilas/public_html/index.php(17): require('/home/vilas/pub...')
+#26 {main}
+  thrown in /home/vilas/public_html/wp-includes/shortcodes.php on line 355
+[13-Mar-2023 12:29:53 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code on line 2
+[13-Mar-2023 12:29:53 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli could not be converted to string in /home/vilas/public_html/wp-includes/shortcodes.php:355
+Stack trace:
+#0 [internal function]: do_shortcode_tag()
+#1 /home/vilas/public_html/wp-includes/shortcodes.php(227): preg_replace_callback()
+#2 /home/vilas/public_html/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortcode()
+#3 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(2268): Elementor\Widget_Shortcode->render()
+#4 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#5 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(750): Elementor\Widget_Base->render_content()
+#6 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(449): Elementor\Widget_Base->print_content()
+#7 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(1354): Elementor\Element_Base->print_element()
+#8 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(449): Elementor\Element_Base->print_content()
+#9 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(1354): Elementor\Element_Base->print_element()
+#10 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(449): Elementor\Element_Base->print_content()
+#11 /home/vilas/public_html/wp-content/plugins/elementor/core/base/document.php(1669): Elementor\Element_Base->print_element()
+#12 /home/vilas/public_html/wp-content/plugins/elementor/core/base/document.php(1095): Elementor\Core\Base\Document->print_elements()
+#13 /home/vilas/public_html/wp-content/plugins/elementor/includes/frontend.php(1179): Elementor\Core\Base\Document->print_elements_with_wrapper()
+#14 /home/vilas/public_html/wp-content/plugins/elementor/includes/frontend.php(1074): Elementor\Frontend->get_builder_content()
+#15 /home/vilas/public_html/wp-includes/class-wp-hook.php(308): Elementor\Frontend->apply_builder_in_content()
+#16 /home/vilas/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#17 /home/vilas/public_html/wp-includes/post-template.php(255): apply_filters()
+#18 /home/vilas/public_html/wp-content/themes/hello-elementor/template-parts/single.php(23): the_content()
+#19 /home/vilas/public_html/wp-includes/template.php(785): require('/home/vilas/pub...')
+#20 /home/vilas/public_html/wp-includes/template.php(718): load_template()
+#21 /home/vilas/public_html/wp-includes/general-template.php(204): locate_template()
+#22 /home/vilas/public_html/wp-content/themes/hello-elementor/index.php(21): get_template_part()
+#23 /home/vilas/public_html/wp-includes/template-loader.php(106): include('/home/vilas/pub...')
+#24 /home/vilas/public_html/wp-blog-header.php(19): require_once('/home/vilas/pub...')
+#25 /home/vilas/public_html/index.php(17): require('/home/vilas/pub...')
+#26 {main}
+  thrown in /home/vilas/public_html/wp-includes/shortcodes.php on line 355
+[13-Mar-2023 12:30:06 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code on line 2
+[13-Mar-2023 12:30:06 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli could not be converted to string in /home/vilas/public_html/wp-includes/shortcodes.php:355
+Stack trace:
+#0 [internal function]: do_shortcode_tag()
+#1 /home/vilas/public_html/wp-includes/shortcodes.php(227): preg_replace_callback()
+#2 /home/vilas/public_html/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortcode()
+#3 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(2268): Elementor\Widget_Shortcode->render()
+#4 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#5 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(750): Elementor\Widget_Base->render_content()
+#6 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(449): Elementor\Widget_Base->print_content()
+#7 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(1354): Elementor\Element_Base->print_element()
+#8 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(449): Elementor\Element_Base->print_content()
+#9 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(1354): Elementor\Element_Base->print_element()
+#10 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(449): Elementor\Element_Base->print_content()
+#11 /home/vilas/public_html/wp-content/plugins/elementor/core/base/document.php(1669): Elementor\Element_Base->print_element()
+#12 /home/vilas/public_html/wp-content/plugins/elementor/core/base/document.php(1095): Elementor\Core\Base\Document->print_elements()
+#13 /home/vilas/public_html/wp-content/plugins/elementor/includes/frontend.php(1179): Elementor\Core\Base\Document->print_elements_with_wrapper()
+#14 /home/vilas/public_html/wp-content/plugins/elementor/includes/frontend.php(1074): Elementor\Frontend->get_builder_content()
+#15 /home/vilas/public_html/wp-includes/class-wp-hook.php(308): Elementor\Frontend->apply_builder_in_content()
+#16 /home/vilas/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#17 /home/vilas/public_html/wp-includes/post-template.php(255): apply_filters()
+#18 /home/vilas/public_html/wp-content/themes/hello-elementor/template-parts/single.php(23): the_content()
+#19 /home/vilas/public_html/wp-includes/template.php(785): require('/home/vilas/pub...')
+#20 /home/vilas/public_html/wp-includes/template.php(718): load_template()
+#21 /home/vilas/public_html/wp-includes/general-template.php(204): locate_template()
+#22 /home/vilas/public_html/wp-content/themes/hello-elementor/index.php(21): get_template_part()
+#23 /home/vilas/public_html/wp-includes/template-loader.php(106): include('/home/vilas/pub...')
+#24 /home/vilas/public_html/wp-blog-header.php(19): require_once('/home/vilas/pub...')
+#25 /home/vilas/public_html/index.php(17): require('/home/vilas/pub...')
+#26 {main}
+  thrown in /home/vilas/public_html/wp-includes/shortcodes.php on line 355
+[13-Mar-2023 12:30:54 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code on line 2
+[13-Mar-2023 12:30:54 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli could not be converted to string in /home/vilas/public_html/wp-includes/shortcodes.php:355
+Stack trace:
+#0 [internal function]: do_shortcode_tag()
+#1 /home/vilas/public_html/wp-includes/shortcodes.php(227): preg_replace_callback()
+#2 /home/vilas/public_html/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortcode()
+#3 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(2268): Elementor\Widget_Shortcode->render()
+#4 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#5 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(750): Elementor\Widget_Base->render_content()
+#6 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(449): Elementor\Widget_Base->print_content()
+#7 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(1354): Elementor\Element_Base->print_element()
+#8 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(449): Elementor\Element_Base->print_content()
+#9 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(1354): Elementor\Element_Base->print_element()
+#10 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(449): Elementor\Element_Base->print_content()
+#11 /home/vilas/public_html/wp-content/plugins/elementor/core/base/document.php(1669): Elementor\Element_Base->print_element()
+#12 /home/vilas/public_html/wp-content/plugins/elementor/core/base/document.php(1095): Elementor\Core\Base\Document->print_elements()
+#13 /home/vilas/public_html/wp-content/plugins/elementor/includes/frontend.php(1179): Elementor\Core\Base\Document->print_elements_with_wrapper()
+#14 /home/vilas/public_html/wp-content/plugins/elementor/includes/frontend.php(1074): Elementor\Frontend->get_builder_content()
+#15 /home/vilas/public_html/wp-includes/class-wp-hook.php(308): Elementor\Frontend->apply_builder_in_content()
+#16 /home/vilas/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#17 /home/vilas/public_html/wp-includes/post-template.php(255): apply_filters()
+#18 /home/vilas/public_html/wp-content/themes/hello-elementor/template-parts/single.php(23): the_content()
+#19 /home/vilas/public_html/wp-includes/template.php(785): require('/home/vilas/pub...')
+#20 /home/vilas/public_html/wp-includes/template.php(718): load_template()
+#21 /home/vilas/public_html/wp-includes/general-template.php(204): locate_template()
+#22 /home/vilas/public_html/wp-content/themes/hello-elementor/index.php(21): get_template_part()
+#23 /home/vilas/public_html/wp-includes/template-loader.php(106): include('/home/vilas/pub...')
+#24 /home/vilas/public_html/wp-blog-header.php(19): require_once('/home/vilas/pub...')
+#25 /home/vilas/public_html/index.php(17): require('/home/vilas/pub...')
+#26 {main}
+  thrown in /home/vilas/public_html/wp-includes/shortcodes.php on line 355
+[13-Mar-2023 16:20:19 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code on line 2
+[13-Mar-2023 16:20:19 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli could not be converted to string in /home/vilas/public_html/wp-includes/shortcodes.php:355
+Stack trace:
+#0 [internal function]: do_shortcode_tag()
+#1 /home/vilas/public_html/wp-includes/shortcodes.php(227): preg_replace_callback()
+#2 /home/vilas/public_html/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortcode()
+#3 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(2268): Elementor\Widget_Shortcode->render()
+#4 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#5 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(750): Elementor\Widget_Base->render_content()
+#6 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(449): Elementor\Widget_Base->print_content()
+#7 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(1354): Elementor\Element_Base->print_element()
+#8 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(449): Elementor\Element_Base->print_content()
+#9 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(1354): Elementor\Element_Base->print_element()
+#10 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(449): Elementor\Element_Base->print_content()
+#11 /home/vilas/public_html/wp-content/plugins/elementor/core/base/document.php(1669): Elementor\Element_Base->print_element()
+#12 /home/vilas/public_html/wp-content/plugins/elementor/core/base/document.php(1095): Elementor\Core\Base\Document->print_elements()
+#13 /home/vilas/public_html/wp-content/plugins/elementor/includes/frontend.php(1179): Elementor\Core\Base\Document->print_elements_with_wrapper()
+#14 /home/vilas/public_html/wp-content/plugins/elementor/includes/frontend.php(1074): Elementor\Frontend->get_builder_content()
+#15 /home/vilas/public_html/wp-includes/class-wp-hook.php(308): Elementor\Frontend->apply_builder_in_content()
+#16 /home/vilas/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#17 /home/vilas/public_html/wp-includes/post-template.php(255): apply_filters()
+#18 /home/vilas/public_html/wp-content/themes/hello-elementor/template-parts/single.php(23): the_content()
+#19 /home/vilas/public_html/wp-includes/template.php(785): require('/home/vilas/pub...')
+#20 /home/vilas/public_html/wp-includes/template.php(718): load_template()
+#21 /home/vilas/public_html/wp-includes/general-template.php(204): locate_template()
+#22 /home/vilas/public_html/wp-content/themes/hello-elementor/index.php(21): get_template_part()
+#23 /home/vilas/public_html/wp-includes/template-loader.php(106): include('/home/vilas/pub...')
+#24 /home/vilas/public_html/wp-blog-header.php(19): require_once('/home/vilas/pub...')
+#25 /home/vilas/public_html/index.php(17): require('/home/vilas/pub...')
+#26 {main}
+  thrown in /home/vilas/public_html/wp-includes/shortcodes.php on line 355
+[13-Mar-2023 16:20:31 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code on line 2
+[13-Mar-2023 16:20:31 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli could not be converted to string in /home/vilas/public_html/wp-includes/shortcodes.php:355
+Stack trace:
+#0 [internal function]: do_shortcode_tag()
+#1 /home/vilas/public_html/wp-includes/shortcodes.php(227): preg_replace_callback()
+#2 /home/vilas/public_html/wp-content/plugins/elementor/includes/widgets/shortcode.php(130): do_shortcode()
+#3 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(2268): Elementor\Widget_Shortcode->render()
+#4 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#5 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(750): Elementor\Widget_Base->render_content()
+#6 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(449): Elementor\Widget_Base->print_content()
+#7 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(1354): Elementor\Element_Base->print_element()
+#8 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(449): Elementor\Element_Base->print_content()
+#9 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(1354): Elementor\Element_Base->print_element()
+#10 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(449): Elementor\Element_Base->print_content()
+#11 /home/vilas/public_html/wp-content/plugins/elementor/core/base/document.php(1669): Elementor\Element_Base->print_element()
+#12 /home/vilas/public_html/wp-content/plugins/elementor/core/base/document.php(1095): Elementor\Core\Base\Document->print_elements()
+#13 /home/vilas/public_html/wp-content/plugins/elementor/includes/frontend.php(1179): Elementor\Core\Base\Document->print_elements_with_wrapper()
+#14 /home/vilas/public_html/wp-content/plugins/elementor/includes/frontend.php(1074): Elementor\Frontend->get_builder_content()
+#15 /home/vilas/public_html/wp-includes/class-wp-hook.php(308): Elementor\Frontend->apply_builder_in_content()
+#16 /home/vilas/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#17 /home/vilas/public_html/wp-includes/post-template.php(255): apply_filters()
+#18 /home/vilas/public_html/wp-content/themes/hello-elementor/template-parts/single.php(23): the_content()
+#19 /home/vilas/public_html/wp-includes/template.php(785): require('/home/vilas/pub...')
+#20 /home/vilas/public_html/wp-includes/template.php(718): load_template()
+#21 /home/vilas/public_html/wp-includes/general-template.php(204): locate_template()
+#22 /home/vilas/public_html/wp-content/themes/hello-elementor/index.php(21): get_template_part()
+#23 /home/vilas/public_html/wp-includes/template-loader.php(106): include('/home/vilas/pub...')
+#24 /home/vilas/public_html/wp-blog-header.php(19): require_once('/home/vilas/pub...')
+#25 /home/vilas/public_html/index.php(17): require('/home/vilas/pub...')
+#26 {main}
+  thrown in /home/vilas/public_html/wp-includes/shortcodes.php on line 355
+[13-Mar-2023 16:24:18 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code on line 2
+[13-Mar-2023 16:39:29 UTC] PHP Fatal error:  Cannot redeclare conexion4() (previously declared in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code:3) in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code on line 1
+[14-Mar-2023 20:36:50 UTC] PHP Warning:  Undefined variable $wpdb in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code on line 8
+[14-Mar-2023 20:36:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code:8
+Stack trace:
+#0 /home/vilas/public_html/wp-includes/shortcodes.php(355): showPrices()
+#1 [internal function]: do_shortcode_tag()
+#2 /home/vilas/public_html/wp-includes/shortcodes.php(227): preg_replace_callback()
+#3 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(426): do_shortcode()
+#4 /home/vilas/public_html/wp-content/plugins/elementor/includes/widgets/text-editor.php(417): Elementor\Widget_Base->parse_text_editor()
+#5 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(2268): Elementor\Widget_Text_Editor->render()
+#6 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#7 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(750): Elementor\Widget_Base->render_content()
+#8 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(449): Elementor\Widget_Base->print_content()
+#9 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(1354): Elementor\Element_Base->print_element()
+#10 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(449): Elementor\Element_Base->print_content()
+#11 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(1354): Elementor\Element_Base->print_element()
+#12 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(449): Elementor\Element_Base->print_content()
+#13 /home/vilas/public_html/wp-content/plugins/elementor/core/base/document.php(1669): Elementor\Element_Base->print_element()
+#14 /home/vilas/public_html/wp-content/plugins/elementor/core/base/document.php(1095): Elementor\Core\Base\Document->print_elements()
+#15 /home/vilas/public_html/wp-content/plugins/elementor/includes/frontend.php(1179): Elementor\Core\Base\Document->print_elements_with_wrapper()
+#16 /home/vilas/public_html/wp-content/plugins/elementor/includes/frontend.php(1074): Elementor\Frontend->get_builder_content()
+#17 /home/vilas/public_html/wp-includes/class-wp-hook.php(308): Elementor\Frontend->apply_builder_in_content()
+#18 /home/vilas/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#19 /home/vilas/public_html/wp-includes/post-template.php(255): apply_filters()
+#20 /home/vilas/public_html/wp-content/themes/hello-elementor/template-parts/single.php(23): the_content()
+#21 /home/vilas/public_html/wp-includes/template.php(785): require('/home/vilas/pub...')
+#22 /home/vilas/public_html/wp-includes/template.php(718): load_template()
+#23 /home/vilas/public_html/wp-includes/general-template.php(204): locate_template()
+#24 /home/vilas/public_html/wp-content/themes/hello-elementor/index.php(21): get_template_part()
+#25 /home/vilas/public_html/wp-includes/template-loader.php(106): include('/home/vilas/pub...')
+#26 /home/vilas/public_html/wp-blog-header.php(19): require_once('/home/vilas/pub...')
+#27 /home/vilas/public_html/index.php(17): require('/home/vilas/pub...')
+#28 {main}
+  thrown in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code on line 8
+[14-Mar-2023 20:36:57 UTC] PHP Warning:  Undefined variable $wpdb in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code on line 8
+[14-Mar-2023 20:36:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code:8
+Stack trace:
+#0 /home/vilas/public_html/wp-includes/shortcodes.php(355): showPrices()
+#1 [internal function]: do_shortcode_tag()
+#2 /home/vilas/public_html/wp-includes/shortcodes.php(227): preg_replace_callback()
+#3 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(426): do_shortcode()
+#4 /home/vilas/public_html/wp-content/plugins/elementor/includes/widgets/text-editor.php(417): Elementor\Widget_Base->parse_text_editor()
+#5 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(2268): Elementor\Widget_Text_Editor->render()
+#6 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(609): Elementor\Controls_Stack->render_by_mode()
+#7 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/widget-base.php(750): Elementor\Widget_Base->render_content()
+#8 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(449): Elementor\Widget_Base->print_content()
+#9 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(1354): Elementor\Element_Base->print_element()
+#10 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(449): Elementor\Element_Base->print_content()
+#11 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(1354): Elementor\Element_Base->print_element()
+#12 /home/vilas/public_html/wp-content/plugins/elementor/includes/base/element-base.php(449): Elementor\Element_Base->print_content()
+#13 /home/vilas/public_html/wp-content/plugins/elementor/core/base/document.php(1669): Elementor\Element_Base->print_element()
+#14 /home/vilas/public_html/wp-content/plugins/elementor/core/base/document.php(1095): Elementor\Core\Base\Document->print_elements()
+#15 /home/vilas/public_html/wp-content/plugins/elementor/includes/frontend.php(1179): Elementor\Core\Base\Document->print_elements_with_wrapper()
+#16 /home/vilas/public_html/wp-content/plugins/elementor/includes/frontend.php(1074): Elementor\Frontend->get_builder_content()
+#17 /home/vilas/public_html/wp-includes/class-wp-hook.php(308): Elementor\Frontend->apply_builder_in_content()
+#18 /home/vilas/public_html/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#19 /home/vilas/public_html/wp-includes/post-template.php(255): apply_filters()
+#20 /home/vilas/public_html/wp-content/themes/hello-elementor/template-parts/single.php(23): the_content()
+#21 /home/vilas/public_html/wp-includes/template.php(785): require('/home/vilas/pub...')
+#22 /home/vilas/public_html/wp-includes/template.php(718): load_template()
+#23 /home/vilas/public_html/wp-includes/general-template.php(204): locate_template()
+#24 /home/vilas/public_html/wp-content/themes/hello-elementor/index.php(21): get_template_part()
+#25 /home/vilas/public_html/wp-includes/template-loader.php(106): include('/home/vilas/pub...')
+#26 /home/vilas/public_html/wp-blog-header.php(19): require_once('/home/vilas/pub...')
+#27 /home/vilas/public_html/index.php(17): require('/home/vilas/pub...')
+#28 {main}
+  thrown in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code on line 8
+[14-Mar-2023 21:08:26 UTC] PHP Warning:  Attempt to read property "cost" on string in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code on line 20
+[14-Mar-2023 21:08:35 UTC] PHP Warning:  Attempt to read property "cost" on string in /home/vilas/public_html/wp-content/plugins/insert-headers-and-footers/includes/class-wpcode-snippet-execute.php(268) : eval()'d code on line 20

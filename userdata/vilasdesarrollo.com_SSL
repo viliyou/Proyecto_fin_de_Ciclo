@@ -1,0 +1,18 @@
+--- 
+documentroot: /home/vilas/public_html
+group: vilas
+hascgi: 1
+homedir: /home/vilas
+ip: 51.254.111.187
+ipv6: ~
+owner: yeensvax
+phpopenbasedirprotect: ~
+port: 443
+secruleengineoff: ~
+serveradmin: webmaster@vilasdesarrollo.com
+serveralias: mail.vilasdesarrollo.com www.vilasdesarrollo.com
+servername: vilasdesarrollo.com
+ssl: 1
+usecanonicalname: 'Off'
+user: vilas
+userdirprotect: ''

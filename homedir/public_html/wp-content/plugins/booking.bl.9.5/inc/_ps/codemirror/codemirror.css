@@ -1,0 +1,45 @@
+/**
+ * @package  Code Mirror
+ * @description  HTML Forms with  highlighting Syntax
+ *
+ * Author: wpdevelop, oplugins
+ * @link http://oplugins.com/
+ * @email info@oplugins.com
+ *
+ * @version 1.0
+ * @modified 2019-04-10
+ */
+
+.CodeMirror {
+  border: 1px solid #ddd;
+}
+
+.preview-oshortcode,
+.cm-oshortcode {
+	font-weight: 600;
+	background: #efefff;
+}
+
+#wpbc_add_form_html {
+	/*display: block !important;*/
+}
+
+/* Booking Form at Booking > Settings > Form page */
+#wpbc_settings_form_fields_metabox .CodeMirror.CodeMirror-wrap {
+	height: 570px;
+}
+
+/* "Content of booking fields data" form */
+#wpbc_settings_form_fields_show_metabox .CodeMirror.CodeMirror-wrap {
+	height: 290px;
+}
+
+/* Search Form at Booking > Settings > Search page */
+#wpbc_settings_search_availability_form_metabox .CodeMirror.CodeMirror-wrap {
+	height: 385px;
+}
+
+/* Search Results at Booking > Settings > Search page */
+#wpbc_settings_search_results_form_metabox .CodeMirror.CodeMirror-wrap {
+	height: auto;
+}

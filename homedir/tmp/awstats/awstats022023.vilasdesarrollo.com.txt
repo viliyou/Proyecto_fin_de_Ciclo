@@ -1,0 +1,438 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202302 will be lost/reset.
+# Last config file used to build this data file was /home/vilas/tmp/awstats/awstats.vilasdesarrollo.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2013                
+POS_TIME 2696                
+POS_VISITOR 8057                
+POS_DAY 8493                
+POS_DOMAIN 3491                
+POS_LOGIN 3728                
+POS_ROBOT 3883                
+POS_WORMS 4015                
+POS_EMAILSENDER 4146                
+POS_EMAILRECEIVER 4289                
+POS_SESSION 9097                
+POS_SIDER 9304                
+POS_FILETYPES 4424                
+POS_DOWNLOADS 4781                
+POS_OS 4829                
+POS_BROWSER 4912                
+POS_SCREENSIZE 5037                
+POS_UNKNOWNREFERER 5111                
+POS_UNKNOWNREFERERBROWSER 5198                
+POS_ORIGIN 5280                
+POS_SEREFERRALS 5420                
+POS_PAGEREFS 5564                
+POS_SEARCHWORDS 5749                
+POS_KEYWORDS 5901                
+POS_MISC 2360                
+POS_ERRORS 5960                
+POS_CLUSTER 3584                
+POS_SIDER_404 6131                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20230301112205 428 132045 19384843611421
+FirstTime 20230201122356
+LastTime 20230228221320
+LastUpdate 20230302023816 428 0 427 0 0
+TotalVisits 57                  
+TotalUnique 8                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 8                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 723 877 9917773 9 11 49870
+1 652 991 23561186 23 26 1725
+2 565 798 13287904 15 15 114
+3 151 227 3569776 1 1 24409
+4 62 62 3334 0 0 0
+5 14 14 658 0 0 0
+6 0 0 0 0 0 0
+7 0 0 0 0 0 0
+8 83 160 6505207 3 5 18951
+9 84 121 1457903 0 0 0
+10 735 1183 66968583 20 25 54332
+11 1021 1501 32000333 8 11 18084
+12 630 1275 20047804 8 12 1150
+13 913 1004 11197273 16 17 517
+14 186 207 549571 6 7 1158
+15 177 195 1389542 8 8 1491
+16 466 934 37421144 17 19 42493
+17 813 1021 25693760 26 26 41385
+18 1821 2726 272924552 26 29 18157
+19 2177 3354 376748673 101 116 824921
+20 786 1300 219840648 12 12 97
+21 424 581 4143052 7 9 1279
+22 77 185 7812360 4 5 37665
+23 203 258 8916585 1 2 19194
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+es 12763 18974 1143957621
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 14
+png 312 72137279 0 0
+jpg 495 184247693 0 0
+gif 56 278222 0 0
+Unknown 763 6340452 0 0
+map 8 1262320 0 0
+css 1683 13792635 0 0
+php 10884 197767894 0 0
+js 3453 68355174 0 0
+html 990 22551619 0 0
+woff2 70 5363000 0 0
+wpress 3 570458889 0 0
+ttf 21 497112 0 0
+svg 212 542164 0 0
+woff 24 363168 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 1
+win10 18974 12763
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 3
+firefox109.0 1127 690
+chrome110.0.0.0 13861 9846
+chrome109.0.0.0 3986 2227
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 40 40
+From1 0 0
+From2 0 0
+From3 3 3
+From4 12720 18931
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://hl114.lucushost.org:2087 3 3
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+500 12 16886
+301 7 1414
+302 213 39752
+401 5 485
+503 2 1191
+404 69 1088200
+400 2 42
+403 18 9022
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 23
+/wp-content/uploads/elementor/css/post-1963.css 1 http://vilasdesarrollo.com/
+/elementor-hf/footer/ 7 http://vilasdesarrollo.com/wp-admin/post.php
+/tours-travel-agency-v1/ 7 http://vilasdesarrollo.com/
+/elementor-hf/header-resto-web-english/ 1 http://vilasdesarrollo.com/wp-admin/post.php
+/2022/09/15/vacation-with-your-friend/ 1 http://vilasdesarrollo.com/
+/index.php 3 http://vilasdesarrollo.com/wp-admin/admin.php
+/elementor-hf/header-copy/ 1 http://vilasdesarrollo.com/wp-admin/post.php
+/index 1 -
+/elementor-hf/footer-esp/ 1 http://vilasdesarrollo.com/wp-admin/edit.php
+/elementor-hf/header/ 11 http://vilasdesarrollo.com/wp-admin/post.php
+/elementor-hf/footer-copy/ 6 http://vilasdesarrollo.com/wp-admin/post.php
+/wp-content/uploads/elementor/css/post-1943.css 1 http://vilasdesarrollo.com/en/
+/2022/09/13/asian-spring-countries/ 1 http://vilasdesarrollo.com/
+/elementor-hf/header-resto-web/ 1 http://vilasdesarrollo.com/wp-admin/post.php
+/elementor-hf/header-esp/ 4 http://vilasdesarrollo.com/wp-admin/post.php
+/wpadmin 1 -
+/wp-content/uploads/elementor/css/post-2209.css 3 http://vilasdesarrollo.com/elementor-hf/header-resto-web-english/
+/2022/09/13/best-nordic-countries/ 2 http://vilasdesarrollo.com/
+/2022/09/13/events-for-nature-protect/ 1 http://vilasdesarrollo.com/
+/wp-content/uploads/elementor/css/post-2146.css 1 http://vilasdesarrollo.com/en/home-english/
+/wp-admin/admin-ajax.php 1 http://vilasdesarrollo.com/wp-admin/customize.php
+/elementor-hf/header-portada-english/ 2 http://vilasdesarrollo.com/wp-admin/post.php
+/wp-content/uploads/elementor/css/post-2094.css 11 http://vilasdesarrollo.com/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 8
+81.39.216.142 9506 13045 972360637 20230228095420
+81.39.216.157 1976 3365 38926611 20230208191718
+89.128.101.118 580 1195 72009449 20230223195536
+81.39.221.44 360 595 9795683 20230228221320
+81.39.219.191 276 297 1452542 20230201172143
+91.117.33.63 51 334 35330339 20230217163728
+77.210.49.97 11 117 7745941 20230221225306
+81.60.113.159 3 26 6336419 20230214233119
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 20
+20230201 994 1430 15392135 3
+20230202 565 928 10426271 2
+20230203 201 483 5426251 3
+20230206 6 6 315 1
+20230208 552 971 11123540 3
+20230209 30 30 2456 1
+20230210 593 1023 10093926 2
+20230211 1 6 30472 1
+20230213 713 1170 377424785 3
+20230214 1144 1687 50537029 6
+20230215 1547 2165 99456887 6
+20230216 185 357 6805640 2
+20230217 70 211 16719555 3
+20230220 970 1326 58358352 2
+20230221 534 789 33359124 3
+20230222 208 345 18617809 3
+20230223 2529 3535 397382309 5
+20230224 1445 1719 21423298 2
+20230227 111 193 1581492 3
+20230228 365 600 9795975 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 29
+0s-30s 9
+5mn-15mn 5
+15mn-30mn 1
+30s-2mn 1
+2mn-5mn 1
+30mn-1h 11
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 135
+/wp-admin/admin-ajax.php 9025 91561476 28 45
+/wp-admin/admin.php 526 20294175 7 0
+/ 499 11653434 13 8
+/index.php 328 829851 0 0
+/wp-admin/post.php 254 46293405 1 0
+/wp-admin/edit.php 214 7008369 1 0
+/wp-json/elementor/v1/kit-elements-defaults 145 290 0 0
+/wp-json/elementor/v1/globals 145 131060 0 0
+/en/home-english/ 141 3458157 0 1
+/wp-admin/load-scripts.php 138 8867309 0 0
+/wp-admin/load-styles.php 100 11982810 0 0
+/wp-admin/ 67 2557295 4 0
+/wp-json/wp/v2/pages 59 404974 0 0
+/wp-json/wp/v2/blocks 58 209444 0 0
+/wp-json/wp/v2/settings 56 141838 0 0
+/wp-admin/plugins.php 54 1971823 0 0
+/wp-admin/nav-menus.php 48 1966981 1 0
+/wp-json/wp/v2/users/me 31 23645 0 0
+/wp-json/ 30 18661 0 0
+/wp-json/wp/v2/taxonomies 30 204166 0 0
+/wp-json/wp/v2/users 30 1686 0 0
+/wp-json/wp/v2/block-patterns/patterns 30 4223127 0 0
+/wp-json/wp/v2/themes 30 161370 0 0
+/wp-json/wp/v2/block-patterns/categories 30 8662 0 0
+/wp-json/wp/v2/templates 28 127484 0 0
+/wp-content/ai1wm-backups/vilasdesarrollo.com-20230223-181029-qa6bcd.wpress 1 241177567 0 0
+/buceo-rescate/ 7 183523 0 0
+/wp-login.php 20 44648 1 0
+/wp-admin/themes.php 13 399582 0 0
+/wp-admin/post-new.php 11 996571 0 0
+/en/buceo-tec-copy/ 1 29494 0 0
+/en/gallery-copy/ 2 41889 0 0
+/en/deep-diving-specialty-course/ 5 111575 0 0
+/wp-json/wp/v2/pages/1880 1 9480 0 0
+/wp-admin/plugin-install.php 18 548338 0 0
+/en/emergency-first-response/ 3 75828 0 0
+/wp-json/wp/v2/pages/1963 1 9480 0 0
+/wp-admin/theme-install.php 2 56241 0 0
+/wp-admin/index.php 5 144274 0 0
+/en/buceo-avanzado-copy/ 3 78713 0 0
+/en/contact-eng/ 1 27170 0 0
+/buceo-profundo/ 5 138147 0 0
+/wp-admin/user-edit.php 3 116154 0 0
+/wp-content/plugins/header-footer-elementor/assets/fonts/hfe.ttf 2 7848 0 0
+/wp-json/wp/v2/pages/1875 5 47400 0 0
+/wp-json/wp/v2/pages/486 1 9480 0 0
+/gallery/ 2 33106 0 0
+/wp-content/plugins/formidable/fonts/s11-fp.ttf 2 118104 0 0
+/buceo-nocturno/ 5 123737 0 0
+/wp-admin/theme-editor.php 1 33713 0 0
+/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/fonts/eaicon.ttf 6 283920 0 0
+/wp-admin/update-core.php 1 21324 0 0
+/salidas-e-inmersiones/ 3 82125 0 0
+/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2 10 690876 0 0
+/wp-json/wp/v2/widget-types 12 81048 0 0
+/wp-content/plugins/all-in-one-wp-migration/lib/view/assets/font/servmask.woff 6 38280 0 0
+/wp-admin/update.php 2 38842 0 0
+/buceo-tec/ 3 81581 0 0
+/wp-json/wp/v2/pages/1925 2 18960 0 0
+/wp-content/plugins/booking/assets/libs/material-design-icons/fonts/google-material-design-icons.woff2 1 124372 0 0
+/wp-admin/revision.php 2 54030 0 0
+/wp-json/wp/v2/pages/1874 5 47400 0 0
+/wp-content/plugins/booking.bs.9.4.3.1/assets/libs/material-design-icons/fonts/google-material-design-icons.woff2 8 994976 0 0
+/wp-admin/users.php 25 504044 0 0
+/contact/ 5 107879 0 0
+/wp-json/wp/v2/templates/twentytwentythree/page 1 1990 0 0
+/wp-admin/upload.php 16 629714 0 0
+/wp-admin/tools.php 6 79215 0 0
+/buceo-avanzado/ 13 349517 0 0
+/wp-content/plugins/litespeed-cache/assets/css/fonts/litespeedfont.ttf 6 11040 0 0
+/en/rescue-diver/ 1 21722 0 0
+/en/bautismo-buceo-copy/ 2 47314 0 0
+/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2 21 1836148 0 0
+/wp-content/ai1wm-backups/vilasdesarrollo.com-20230213-174429-6h67yi.wpress 2 329281322 0 0
+/wp-admin/edit-tags.php 2 71214 0 0
+/wp-json/wp/v2/media 28 314468 0 0
+/about-copy/ 1 17568 0 0
+/elementor-hf/header-esp/ 1 11489 0 0
+/wp-admin/async-upload.php 2 1647 0 0
+/wp-admin/options-general.php 6 169526 0 0
+/en/diver-scuba-diving/ 3 67961 0 0
+/en/buceo-nocturno-copy/ 1 28812 0 0
+/wp-json/wp/v2/pages/1935 1 9480 0 0
+/wp-json/wpraddons/v1/ajaxselect2/get_taxonomies/ 12 168 0 0
+/wp-json/wp/v2/pages/2064 2 11391 0 0
+/wp-json/contact-form-7/v1/contact-forms/1304/refill 8 16 0 0
+/wp-json/wp/v2/pages/1917 1 9480 0 0
+/padi-divemaster/ 6 154230 0 0
+/wp-json/contact-form-7/v1/contact-forms/2035 1 3341 0 0
+/wp-admin/options-permalink.php 5 105961 0 0
+/prueba.html 3 657 0 0
+/paseos-en-barco/ 4 102565 0 0
+/en/dives-and-outings/ 1 22268 0 0
+/en/contact/ 3 55136 0 0
+/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff 3 42528 0 0
+/wp-content/plugins/booking.bs.9.4.3.1/assets/libs/bootstrap-css/fonts/glyphicons-halflings-regular.woff2 7 126196 0 0
+/wp-admin/customize.php 11 1970242 1 0
+/galeria/ 2 32756 0 0
+/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2 5 66380 0 0
+/wp-json/wpraddons/v1/ajaxselect2/get_posts_by_post_type/ 6 84 0 0
+/en/ 21 426984 0 0
+/wp-admin/media-new.php 1 25517 0 0
+/wp-json/wpraddons/v1/ajaxselect2/get_users/ 6 84 0 0
+/wp-admin/about.php 18 371902 0 0
+/portada/ 2 47104 0 0
+/wp-content/plugins/booking.bs.9.4.3.1/assets/libs/bootstrap-icons/fonts/bootstrap-icons.woff2 7 717752 0 0
+/wp-admin/edit-comments.php 10 217154 0 0
+/wp-json/contact-form-7/v1/contact-forms/1304/feedback/schema 8 2464 0 0
+/wp-admin/profile.php 8 262511 0 0
+/en/buceo-profundo-copy/ 1 28781 0 0
+/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/fonts/admin-icon.ttf 5 76200 0 0
+/wp-json/wp/v2/pages/1758 3 29198 0 0
+/about/ 18 383614 0 1
+/wp-content/plugins/booking.bs.9.4.3.1/assets/libs/tippy.js/dist/tippy-bundle.umd.js.map 4 638424 0 0
+/en/about-eng/ 8 128247 0 0
+/sample-page/ 25 243946 0 0
+/wp-json/wp/v2/pages/1871 6 57055 0 0
+/en/buceo-de-rescate-copy/ 1 29713 0 0
+/en/gallery/ 8 239456 0 0
+/contacto/ 6 112397 0 0
+/owd/ 16 354402 0 0
+/wp-json/wp/v2/pages/56 2 12135 0 0
+/blog-travel-agency-v1/ 7 138637 0 1
+/wp-admin/import.php 2 21962 0 0
+/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2 10 703764 0 0
+/wp-json/wp/v2/pages/1020 1 9480 0 0
+/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.woff 15 282360 0 0
+/wp-content/plugins/booking/assets/libs/bootstrap-icons/fonts/bootstrap-icons.woff2 1 102536 0 0
+/elementor-hf/footer-esp/ 1 11491 0 0
+/bautismo-buceo/ 25 605544 0 1
+/wp-admin/export.php 3 32126 0 0
+/wp-content/plugins/booking.bs.9.4.3.1/assets/libs/popper/popper.js.map 4 623896 0 0
+/wp-json/wp/v2/pages/52 2 18960 0 0
+/wp-admin/user-new.php 4 75243 0 0
+/en/boat-trips/ 4 86658 0 0
+END_SIDER

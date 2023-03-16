@@ -1,0 +1,73 @@
+Return-Path: <>
+Delivered-To: vilas@hl114.lucushost.org
+Received: from hl114.lucushost.org
+	by hl114.lucushost.org with LMTP
+	id 0O7gMjsZ5mMsrhYAAPX2DA
+	(envelope-from <>)
+	for <vilas@hl114.lucushost.org>; Fri, 10 Feb 2023 11:15:23 +0100
+Return-path: <>
+Envelope-to: vilas@hl114.lucushost.org
+Delivery-date: Fri, 10 Feb 2023 11:15:23 +0100
+Received: from mailnull by hl114.lucushost.org with local (Exim 4.95)
+	id 1pQQR9-006Lv3-Qf
+	for vilas@hl114.lucushost.org;
+	Fri, 10 Feb 2023 11:15:23 +0100
+X-Failed-Recipients: admin@vilasdesarrollo.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@hl114.lucushost.org>
+To: vilas@hl114.lucushost.org
+References: <EsSWuUysh0Jm3wI6MEHwqrEbWBvG8TtuR8TDmUASe5E@vilasdesarrollo.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1676024123-eximdsn-886702291
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1pQQR9-006Lv3-Qf@hl114.lucushost.org>
+Date: Fri, 10 Feb 2023 11:15:23 +0100
+
+--1676024123-eximdsn-886702291
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  admin@vilasdesarrollo.com
+    No Such User Here
+
+--1676024123-eximdsn-886702291
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; hl114.lucushost.org
+
+Action: failed
+Final-Recipient: rfc822;admin@vilasdesarrollo.com
+Status: 5.0.0
+
+--1676024123-eximdsn-886702291
+Content-type: message/rfc822
+
+Return-path: <vilas@hl114.lucushost.org>
+Received: from vilas by hl114.lucushost.org with local (Exim 4.95)
+	(envelope-from <vilas@hl114.lucushost.org>)
+	id 1pQQR9-006Luv-P0
+	for admin@vilasdesarrollo.com;
+	Fri, 10 Feb 2023 11:15:23 +0100
+To: admin@vilasdesarrollo.com
+Subject: =?us-ascii?Q?Formulario_Actualizar_precios_enviado_el_vilasd?=  =?us-ascii?Q?esarrollo?=
+X-PHP-Script: vilasdesarrollo.com/wp-admin/admin-ajax.php for 81.39.216.142
+X-PHP-Filename: /home/vilas/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 81.39.216.142
+Date: Fri, 10 Feb 2023 10:15:23 +0000
+From: vilasdesarrollo <admin@vilasdesarrollo.com>
+Reply-To: admin@vilasdesarrollo.com
+Message-ID: <EsSWuUysh0Jm3wI6MEHwqrEbWBvG8TtuR8TDmUASe5E@vilasdesarrollo.com>
+X-Mailer: PHPMailer 6.6.5 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<table cellspacing="0"  style="font-size:15px;line-height:135%;border-bottom:1px solid #BFC3C8;">
+<tbody>
+</tbody>
+</table>
+
+
+--1676024123-eximdsn-886702291--

@@ -1,0 +1,73 @@
+Return-Path: <>
+Delivered-To: vilas@hl114.lucushost.org
+Received: from hl114.lucushost.org
+	by hl114.lucushost.org with LMTP
+	id eOETOECx2mOAAgYAAPX2DA
+	(envelope-from <>)
+	for <vilas@hl114.lucushost.org>; Wed, 01 Feb 2023 19:36:48 +0100
+Return-path: <>
+Envelope-to: vilas@hl114.lucushost.org
+Delivery-date: Wed, 01 Feb 2023 19:36:48 +0100
+Received: from mailnull by hl114.lucushost.org with local (Exim 4.95)
+	id 1pNHyS-001ebI-TO
+	for vilas@hl114.lucushost.org;
+	Wed, 01 Feb 2023 19:36:48 +0100
+X-Failed-Recipients: admin@vilasdesarrollo.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@hl114.lucushost.org>
+To: vilas@hl114.lucushost.org
+References: <9eWoJoLKaMMo5WkAPUJBlAKauA02UsgxGK3loHKK9I@vilasdesarrollo.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1675276608-eximdsn-1386282447
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1pNHyS-001ebI-TO@hl114.lucushost.org>
+Date: Wed, 01 Feb 2023 19:36:48 +0100
+
+--1675276608-eximdsn-1386282447
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  admin@vilasdesarrollo.com
+    No Such User Here
+
+--1675276608-eximdsn-1386282447
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; hl114.lucushost.org
+
+Action: failed
+Final-Recipient: rfc822;admin@vilasdesarrollo.com
+Status: 5.0.0
+
+--1675276608-eximdsn-1386282447
+Content-type: message/rfc822
+
+Return-path: <vilas@hl114.lucushost.org>
+Received: from vilas by hl114.lucushost.org with local (Exim 4.95)
+	(envelope-from <vilas@hl114.lucushost.org>)
+	id 1pNHyS-001eb1-Rb
+	for admin@vilasdesarrollo.com;
+	Wed, 01 Feb 2023 19:36:48 +0100
+To: admin@vilasdesarrollo.com
+Subject: [vilasdesarrollo] New User Registration
+X-PHP-Script: vilasdesarrollo.com/wp-admin/user-new.php for 81.39.216.157
+X-PHP-Filename: /home/vilas/public_html/wp-admin/user-new.php REMOTE_ADDR: 81.39.216.157
+Date: Wed, 1 Feb 2023 18:36:48 +0000
+From: WordPress <wordpress@vilasdesarrollo.com>
+Message-ID: <9eWoJoLKaMMo5WkAPUJBlAKauA02UsgxGK3loHKK9I@vilasdesarrollo.com>
+X-Mailer: PHPMailer 6.6.5 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+New user registration on your site vilasdesarrollo:
+
+Username: gestor tienda
+
+Email: dkfjkj@fkjlfd.vcom
+
+
+--1675276608-eximdsn-1386282447--

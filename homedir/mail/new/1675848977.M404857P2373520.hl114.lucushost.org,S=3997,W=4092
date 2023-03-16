@@ -1,0 +1,95 @@
+Return-Path: <>
+Delivered-To: vilas@hl114.lucushost.org
+Received: from hl114.lucushost.org
+	by hl114.lucushost.org with LMTP
+	id mADNFxFt42OQNyQAAPX2DA
+	(envelope-from <>)
+	for <vilas@hl114.lucushost.org>; Wed, 08 Feb 2023 10:36:17 +0100
+Return-path: <>
+Envelope-to: vilas@hl114.lucushost.org
+Delivery-date: Wed, 08 Feb 2023 10:36:17 +0100
+Received: from mailnull by hl114.lucushost.org with local (Exim 4.95)
+	id 1pPgsD-00A7Ze-Bh
+	for vilas@hl114.lucushost.org;
+	Wed, 08 Feb 2023 10:36:17 +0100
+X-Failed-Recipients: admin@vilasdesarrollo.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@hl114.lucushost.org>
+To: vilas@hl114.lucushost.org
+References: <yPWNENLCTXy45phusm4St5N41SZdHyrlZXhRcrjqWE@vilasdesarrollo.com>
+Content-Type: multipart/report; report-type=delivery-status; boundary=1675848977-eximdsn-1595384876
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1pPgsD-00A7Ze-Bh@hl114.lucushost.org>
+Date: Wed, 08 Feb 2023 10:36:17 +0100
+
+--1675848977-eximdsn-1595384876
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  admin@vilasdesarrollo.com
+    No Such User Here
+
+--1675848977-eximdsn-1595384876
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; hl114.lucushost.org
+
+Action: failed
+Final-Recipient: rfc822;admin@vilasdesarrollo.com
+Status: 5.0.0
+
+--1675848977-eximdsn-1595384876
+Content-type: message/rfc822
+
+Return-path: <vilas@hl114.lucushost.org>
+Received: from vilas by hl114.lucushost.org with local (Exim 4.95)
+	(envelope-from <vilas@hl114.lucushost.org>)
+	id 1pPgsD-00A7ZW-A2
+	for admin@vilasdesarrollo.com;
+	Wed, 08 Feb 2023 10:36:17 +0100
+To: admin@vilasdesarrollo.com
+Subject: =?us-ascii?Q?[vilasdesarrollo]_Your_Site_is_Experiencing_a_T?=  =?us-ascii?Q?echnical_Issue?=
+X-PHP-Script: vilasdesarrollo.com/wp-admin/admin.php for 81.39.216.157
+X-PHP-Filename: /home/vilas/public_html/wp-admin/admin.php REMOTE_ADDR: 81.39.216.157
+Date: Wed, 8 Feb 2023 09:36:17 +0000
+From: WordPress <wordpress@vilasdesarrollo.com>
+Message-ID: <yPWNENLCTXy45phusm4St5N41SZdHyrlZXhRcrjqWE@vilasdesarrollo.com>
+X-Mailer: PHPMailer 6.6.5 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Howdy!
+
+Since WordPress 5.2 there is a built-in feature that detects when a plugin or theme causes a fatal error on your site, and notifies you with this automated email.
+
+In this case, WordPress caught an error with one of your plugins, Code Snippets.
+
+First, visit your website (http://vilasdesarrollo.com/) and check for any visible issues. Next, visit the page where the error was caught (http://vilasdesarrollo.com/wp-admin/admin.php?page=edit-snippet&id=16) and check for any visible issues.
+
+Please contact your host for assistance with investigating this issue further.
+
+If your site appears broken and you can't access your dashboard normally, WordPress now has a special "recovery mode". This lets you safely login to your dashboard and investigate further.
+
+http://vilasdesarrollo.com/wp-login.php?action=enter_recovery_mode&rm_token=2lpUL20Em2ZbnOvyiHCXQI&rm_key=YqnktSST0wvNWF0ZtcXtot
+
+To keep your site safe, this link will expire in 1 day. Don't worry about that, though: a new link will be emailed to you if the error occurs again after it expires.
+
+When seeking help with this issue, you may be asked for some of the following information:
+WordPress version 6.1.1
+Active theme: Twenty Twenty-Three (version 1.0)
+Current plugin: Code Snippets (version 3.2.2)
+PHP version 7.4.30
+
+
+
+Error Details
+=============
+An error of type E_PARSE was caused in line 11 of the file /home/vilas/public_html/wp-content/plugins/code-snippets/php/admin-menus/class-edit-menu.php(253) : eval()'d code. Error message: syntax error, unexpected ';'
+
+
+--1675848977-eximdsn-1595384876--

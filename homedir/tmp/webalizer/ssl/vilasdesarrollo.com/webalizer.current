@@ -1,0 +1,169 @@
+# Webalizer V2.23-08 Incremental Data - 03/14/2023 12:05:28
+2023 3 14 12 5 28
+51 45 2 19 3 1 1434718 4 2 0
+1 22 31 8 14
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+29 26 935904 1 2 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+22 19 498814 1 2 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+22 19 498814 2
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+29 26 935904 2
+0
+0
+0
+45
+0
+0
+0
+0
+0
+0
+0
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/wp-includes/js/dist/vendor/wp-polyfill.min.js
+0 2 7599313564074192754 12670 0 0
+/wp-admin/css/l10n.min.css
+0 3 94457435567248 1788 0 0
+/wp-includes/css/buttons.min.css
+0 3 0 3765 0 0
+/wp-includes/js/dist/i18n.min.js
+0 2 0 7434 0 0
+/wp-includes/js/underscore.min.js
+0 2 0 14358 0 0
+/wp-admin/css/forms.min.css
+0 3 0 18108 0 0
+/wp-includes/js/zxcvbn.min.js
+0 3 0 1168479 0 0
+/wp-includes/css/dashicons.min.css
+0 3 0 105330 0 0
+/wp-includes/js/jquery/jquery-migrate.min.js
+0 2 0 7990 0 0
+/wp-includes/js/zxcvbn-async.min.js
+0 2 0 374 0 0
+/wp-includes/js/wp-util.min.js
+0 2 0 1380 0 0
+/wp-login.php
+0 3 0 7947 0 0
+/wp-includes/js/dist/hooks.min.js
+0 2 0 3150 0 0
+/wp-admin/css/login.min.css
+0 3 0 5841 0 0
+/wp-admin/images/wordpress-logo.svg
+0 2 0 1518 0 0
+/wp-admin/js/user-profile.min.js
+0 2 0 4224 0 0
+/wp-includes/js/jquery/jquery.min.js
+0 2 0 60648 0 0
+/wp-admin/js/password-strength-meter.min.js
+0 2 0 1116 0 0
+/wp-includes/js/dist/vendor/regenerator-runtime.min.js
+0 2 0 4708 0 0
+# End Of Table - urls
+# -sites- (monthly)
+63.33.117.91.dynamic.reverse-mundo-r.com
+0 22 19 498814 1 1678795527
+-
+77.210.50.109
+0 29 26 935904 1 1678316852
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+63.33.117.91.dynamic.reverse-mundo-r.com
+0 22 19 498814 1 1678795527
+-
+# End Of Table - sites (daily)
+# -referrers- 
+https://vilasdesarrollo.com/wp-login.php
+0 43
+https://vilasdesarrollo.com/wp-admin/css/login.min.css
+0 2
+- (Direct Request)
+0 6
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+0 51
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
